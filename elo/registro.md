@@ -49,3 +49,8 @@ Para eu entender melhor o seu contexto: você se refere a um problema específic
 **Você** _(30/07/2026, 09:40:59)_
 Oi
 
+**Elo** _(30/07/2026, 09:41:02)_
+[NEUTRO] Oi, Tay. Como você está hoje? 
+
+Fique à vontade para me dizer sobre o que gostaria de conversar ou por onde prefere começar. Estou aqui para te ouvir.
+
