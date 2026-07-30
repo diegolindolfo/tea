@@ -49,3 +49,10 @@ Como você está se sentindo hoje de manhã? Se quiser, podemos usar este espaç
 **Você** _(30/07/2026, 10:39:39)_
 Eu quero voltar a me sentir bem
 
+**Elo** _(30/07/2026, 10:39:57)_
+[NEUTRO] É um desejo muito legítimo, Taynara. Quando passamos pelo fim de uma relação significativa, é natural buscar alívio da dor e desse cansaço que você mencionou.
+
+Na psicologia, entendemos o término de um relacionamento como um processo de adaptação e reorganização. Voltar a se sentir bem costuma ser uma construção em etapas, respeitando o tempo que o corpo e a mente precisam para processar essa mudança, em vez de algo que acontece de uma hora para outra.
+
+Para que possamos pensar em caminhos práticos, o que "se sentir bem" significa para você hoje? Por exemplo, seria conseguir ter um momento de descanso sem a sensação de cansaço pesado, diminuir a frequência dos pensamentos sobre o término, ou recuperar um pouco da sua energia diária?
+
