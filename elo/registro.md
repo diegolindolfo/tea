@@ -46,3 +46,6 @@ Como é a sua primeira vez no Elo, podemos ir no seu ritmo. No seu cadastro inic
 
 Para eu entender melhor o seu contexto: você se refere a um problema específico no seu dia a dia (como estresse no trabalho, relacionamentos) ou era apenas uma forma figurada de testar o sistema? Se quiser falar sobre o que está acontecendo, fique à vontade para me contar.
 
+**Você** _(30/07/2026, 09:40:59)_
+Oi
+
