@@ -39,3 +39,10 @@ Neutro
 **Você** _(30/07/2026, 01:22:54)_
 Teste
 
+**Elo** _(30/07/2026, 01:23:01)_
+[NEUTRO] Olá, Tay. O teste funcionou bem, estou por aqui e pronto para conversar.
+
+Como é a sua primeira vez no Elo, podemos ir no seu ritmo. No seu cadastro inicial, você usou uma expressão que costuma indicar uma situação bastante incômoda ou estressante. 
+
+Para eu entender melhor o seu contexto: você se refere a um problema específico no seu dia a dia (como estresse no trabalho, relacionamentos) ou era apenas uma forma figurada de testar o sistema? Se quiser falar sobre o que está acontecendo, fique à vontade para me contar.
+
