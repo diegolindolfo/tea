@@ -39,3 +39,10 @@ Cansado
 **Você** _(30/07/2026, 10:38:54)_
 Bom dia
 
+**Elo** _(30/07/2026, 10:39:00)_
+[NEUTRO] Bom dia, Taynara.
+
+Sei que você está passando por um momento delicado com o fim de um relacionamento de quatro anos e me contou que tem se sentido bastante cansada ultimamente. É uma transição significativa, e faz sentido que isso impacte sua energia mental e física.
+
+Como você está se sentindo hoje de manhã? Se quiser, podemos usar este espaço para conversar sobre como tem sido atravessar esses últimos dias ou focar no que parecer mais urgente para você agora.
+
