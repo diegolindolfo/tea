@@ -14,6 +14,9 @@ Prefiro não dizer
 **Nas últimas duas semanas, você teve pensamentos de se machucar ou de que não valeria a pena continuar?**
 Prefiro não dizer
 
+**Como você descreveria seu humor geral nos últimos dias?**
+Cansado
+
 ---
 
 ## Conversa
@@ -29,4 +32,7 @@ Prefiro não dizer
 
 **Você** _(30/07/2026, 10:38:30)_
 [anamnese: seguranca] Prefiro não dizer
+
+**Você** _(30/07/2026, 10:38:44)_
+[anamnese: humor] Cansado
 
