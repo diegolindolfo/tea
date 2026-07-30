@@ -46,3 +46,6 @@ Sei que você está passando por um momento delicado com o fim de um relacioname
 
 Como você está se sentindo hoje de manhã? Se quiser, podemos usar este espaço para conversar sobre como tem sido atravessar esses últimos dias ou focar no que parecer mais urgente para você agora.
 
+**Você** _(30/07/2026, 10:39:39)_
+Eu quero voltar a me sentir bem
+
