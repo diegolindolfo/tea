@@ -11,6 +11,9 @@ Acabei de terminar um namoro de 4 anos
 **Você já fez acompanhamento terapêutico antes?**
 Prefiro não dizer
 
+**Nas últimas duas semanas, você teve pensamentos de se machucar ou de que não valeria a pena continuar?**
+Prefiro não dizer
+
 ---
 
 ## Conversa
@@ -23,4 +26,7 @@ Prefiro não dizer
 
 **Você** _(30/07/2026, 10:38:17)_
 [anamnese: terapia_previa] Prefiro não dizer
+
+**Você** _(30/07/2026, 10:38:30)_
+[anamnese: seguranca] Prefiro não dizer
 
