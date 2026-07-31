@@ -11,6 +11,12 @@ Problemas com minha esposa
 **Você já fez acompanhamento terapêutico antes?**
 Não
 
+**Nas últimas duas semanas, você teve pensamentos de se machucar ou de que não valeria a pena continuar?**
+Não
+
+**Como você descreveria seu humor geral nos últimos dias?**
+Neutro
+
 ---
 
 ## Conversa
@@ -23,4 +29,10 @@ Não
 
 **Você** _(31/07/2026, 09:00:01)_
 [anamnese: terapia_previa] Não
+
+**Você** _(31/07/2026, 09:00:02)_
+[anamnese: seguranca] Não
+
+**Você** _(31/07/2026, 09:00:04)_
+[anamnese: humor] Neutro
 
