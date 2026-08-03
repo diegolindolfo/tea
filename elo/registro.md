@@ -90,3 +90,17 @@ Como você avalia a possibilidade de ela aceitar uma conversa focada na saúde m
 **Você** _(03/08/2026, 09:21:45)_
 ela não aceita, já tentei
 
+**Elo** _(03/08/2026, 09:21:58 · hypothesis)_
+[HIPOTESE] A recusa em buscar ajuda é um obstáculo muito comum e profundamente desgastante em quadros depressivos graves, especialmente no pós-parto. Muitas vezes, a pessoa nega ajuda não por teimosia, mas por sentimentos intensos de culpa, medo de ser julgada como "uma mãe que não está dando conta", ou simplesmente porque a própria depressão consome a energia e a clareza necessárias para iniciar um tratamento.
+
+Enquanto isso, você fica em uma posição quase insustentável: sustentando a casa, as finanças, os cuidados com as duas crianças (incluindo as demandas específicas do seu filho autista) e ainda lidando com a rejeição e com a sua própria exaustão. 
+
+Quando a pessoa recusa o cuidado direto, a literatura em terapia familiar e de casal sugere mudar a estratégia, saindo do confronto direto e buscando rotas indiretas de suporte:
+
+1. **Aproveitar consultas médicas que já acontecem:** Como ela ainda se encarrega dos compromissos da bebê (vacinas, pediatra), você pode entrar em contato previamente com o pediatra ou com o obstetra dela. Explique em detalhes ao médico o isolamento contínuo, a falta de energia e a mudança de comportamento que você observa. Médicos dessas áreas são treinados para rastrear depressão pós-parto e podem fazer essa intervenção de forma técnica na próxima consulta.
+2. **Redirecionar a abordagem para a saúde física:** Em vez de falar em "psicólogo" ou "depressão" (que podem soar como ameaça ou diagnóstico), propor um check-up médico geral com um clínico ou ginecologista para investigar causas físicas do cansaço extremo, como alterações hormonais, tireoide ou deficiências vitamínicas graves — muito comuns após a gestação e amamentação. A resistência a exames de sangue costuma ser menor.
+3. **Acionar rede de apoio externa:** Existe alguma pessoa de extrema confiança dela — uma mãe, irmã ou amiga próxima — que você possa contactar reservadamente para alertar sobre o estado de saúde dela e pedir ajuda na intervenção?
+4. **Proteger a sua própria saúde mental:** Você está carregando um peso desproporcional. Se você adoecer por esgotamento, a estrutura familiar fica comprometida. Considerar terapia individual para você, neste momento, não é um luxo, mas uma medida de suporte necessária para que você tenha um espaço seguro de escuta e consiga manejar esse período crítico.
+
+Você acha viável entrar em contato com o médico da bebê ou com algum familiar de confiança dela para começar a mover essa situação?
+
