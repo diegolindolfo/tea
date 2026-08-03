@@ -56,3 +56,6 @@ Entendo o quanto deve ser exaustivo sentir que a responsabilidade de manter a po
 
 Para podermos entender melhor como esse ciclo funciona na prática: quando você toma a iniciativa de ir até ela para conversar, como costuma ser a sua abordagem? E essa atitude de isolamento por parte dela é algo recente ou já vem acontecendo há bastante tempo?
 
+**Você** _(03/08/2026, 09:14:46)_
+eu digo, oi amor, faz uma semana que não ficamos juntos, quer assitir algo hoje, ou sair, ou conversar. Eu nem falo mais em sexo pq ela sempre diz não ou não responde, e mesmoa ssim ela diz, estou cansada, hoje não, só quero ficar quietinha
+
