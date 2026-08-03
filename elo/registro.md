@@ -59,3 +59,12 @@ Para podermos entender melhor como esse ciclo funciona na prática: quando você
 **Você** _(03/08/2026, 09:14:46)_
 eu digo, oi amor, faz uma semana que não ficamos juntos, quer assitir algo hoje, ou sair, ou conversar. Eu nem falo mais em sexo pq ela sempre diz não ou não responde, e mesmoa ssim ela diz, estou cansada, hoje não, só quero ficar quietinha
 
+**Elo** _(03/08/2026, 09:14:54 · hypothesis)_
+[HIPOTESE] A partir do que você descreve, é possível perceber que a sua abordagem busca ser afetuosa e sem cobranças diretas — você inclusive recuou no tema do sexo para diminuir a pressão —, mas ainda assim a resposta dela é a recusa e o isolamento. O acúmulo dessa rejeição contínua costuma gerar uma sensação muito dolorosa de solidão dentro do próprio casamento.
+
+Uma possibilidade é que esse "estar cansada" e a busca constante por se isolar sejam reflexos de uma sobrecarga emocional ou física significativa da parte dela. Quando uma pessoa está em um estado de exaustão profunda (seja por estresse, sobrecarga na rotina, problemas de saúde mental ou esgotamento emocional), até mesmo convites simples para assistir a um filme podem ser percebidos, internamente, como mais uma tarefa ou demanda social para a qual ela sente que não tem energia.
+
+Isso não significa que a situação seja fácil para você, mas ajuda a olhar para a resposta dela não como um ataque pessoal, e sim como um sinal de esgotamento.
+
+Para termos uma visão mais clara do quadro: há quanto tempo você percebe essa postura de cansaço e isolamento nela? E fora a vida a dois, como está a rotina dela em relação a trabalho, responsabilidades do dia a dia ou saúde?
+
