@@ -11,6 +11,9 @@ problemas de comunicação com a minha esposa
 **Você já fez acompanhamento terapêutico antes?**
 Não
 
+**Nas últimas duas semanas, você teve pensamentos de se machucar ou de que não valeria a pena continuar?**
+Não
+
 ---
 
 ## Conversa
@@ -23,4 +26,7 @@ Não
 
 **Você** _(03/08/2026, 09:08:45)_
 [anamnese: terapia_previa] Não
+
+**Você** _(03/08/2026, 09:08:47)_
+[anamnese: seguranca] Não
 
