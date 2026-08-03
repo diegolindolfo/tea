@@ -107,3 +107,17 @@ Você acha viável entrar em contato com o médico da bebê ou com algum familia
 **Você** _(03/08/2026, 09:26:46)_
 a família dela não é uma opção
 
+**Elo** _(03/08/2026, 09:26:49 · fact)_
+[FATO] Entendido. A família dela não é uma alternativa viável para este momento, o que significa que precisamos focar apenas nos recursos que estão ao seu alcance e sob o seu controle.
+
+[HIPOTESE] Com essa porta fechada, a dependência do seu suporte fica ainda maior, assim como a necessidade de usarmos a via de cuidados de saúde que já está ativa na rotina de vocês.
+
+Considerando que a única saída de casa que ela faz é para compromissos da bebê (como vacinas e consultas):
+
+1. **A via do Pediatra:** Na próxima consulta da bebê, você pode ir junto ou enviar uma mensagem antecipada para o médico relatando o comportamento isolado e a fadiga extrema dela. Pediatras frequentemente fazem a ponte para encaminhar mães em sofrimento perinatal.
+2. **Consultas de rotina dela:** Ela tem o acompanhamento do obstetra que fez o parto? Se sim, essa também é uma via possível para relatar o quadro.
+
+Se nenhuma dessas vias funcioná no curto prazo, a prioridade máxima passa a ser conter a **sua** sobrecarga. O acúmulo das tarefas da casa, das terapias do seu filho mais velho, do trabalho e do isolamento do casal coloca você em risco direto de um esgotamento severo (*burnout* parental/cuidador).
+
+Como tem sido para você gerenciar todo esse peso sozinho no dia a dia? Você tem conseguido algum momento mínimo de descanso ou algum suporte externo (como ajuda na limpeza da casa ou terapeuta para o seu filho que possa aliviar parte da logística)?
+
