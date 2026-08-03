@@ -87,3 +87,6 @@ Uma abordagem útil seria mudar o tom da conversa para uma postura de cuidado co
 
 Como você avalia a possibilidade de ela aceitar uma conversa focada na saúde mental dela? E ela tem feito algum acompanhamento médico de rotina (como consulta ginecológica ou pediátrica) desde o parto?
 
+**Você** _(03/08/2026, 09:21:45)_
+ela não aceita, já tentei
+
