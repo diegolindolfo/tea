@@ -46,3 +46,6 @@ Como a comunicação pode falhar de várias formas diferentes, preciso entender 
 
 Quando você tenta se comunicar com a sua esposa, o que costuma acontecer? Por exemplo: as conversas viram discussões com frequência, um de vocês se afasta e prefere o silêncio, ou vocês sentem que conversam, mas não conseguem se entender?
 
+**Você** _(03/08/2026, 09:10:41)_
+ela ignora, não conversa sobre nada, fica sozinha quando pode e se eu não busco, ela não fala sobre nada
+
