@@ -104,3 +104,6 @@ Quando a pessoa recusa o cuidado direto, a literatura em terapia familiar e de c
 
 Você acha viável entrar em contato com o médico da bebê ou com algum familiar de confiança dela para começar a mover essa situação?
 
+**Você** _(03/08/2026, 09:26:46)_
+a família dela não é uma opção
+
