@@ -71,3 +71,19 @@ Para termos uma visão mais clara do quadro: há quanto tempo você percebe essa
 **Você** _(03/08/2026, 09:18:09)_
 ela não tem uma vida muito animada. temos dois filhos, uma bebe de 6 meses e um rapaz de 7a nos, autista. a rotina, eu que cuido, escola do mais velho, finanças, comida, compras, terapias do mais velho, tarefas domésticas. ela amamenta, come, me entrega a bebe quando chego do trabalho e corre para o quarto, tranca a porta e só abre quando a bebe quer comer. O único compromisso dela é quando a bebe tem vacina, e o banho da bebe
 
+**Elo** _(03/08/2026, 09:18:24 · hypothesis)_
+[HIPOTESE] Diante dessas informações, a leitura dessa situação muda bastante de figura. A rotina da família de vocês tem uma carga de exigência altíssima — um filho de 7 anos no espectro autista demanda atenção e coordenação constantes, e vocês têm um bebê de 6 meses. Somado a isso, você está sustentando quase a totalidade do trabalho operacional, financeiro e doméstico da casa, o que explica a exaustão física e mental que você relatou no início.
+
+Com um bebê de 6 meses e esse padrão de comportamento (isolar-se no quarto com a porta trancada, limitar-se ao mínimo funcional para a amamentação e banho, e afastar-se do convívio), a hipótese clínica mais relevante a ser considerada é a presença de um quadro de **Depressão Pós-Parto (DPP)** ou um esgotamento perinatal grave.
+
+Nesses quadros, a anhedonia (perda da capacidade de sentir prazer), a fadiga extrema e o recolhimento não são escolhas ou "falta de interesse" na relação, mas sim sintomas de um sofrimento psíquico profundo. A pessoa muitas vezes se isola por não ter recursos emocionais nem para interagir.
+
+Quando a causa de fundo é o adoecimento mental, tentativas de comunicação focadas no casal (como convites para assistir algo ou sair) tendem a não funcionar, pois a pessoa percebe qualquer interação como uma demanda superior às forças que ela possui no momento.
+
+Neste cenário, o caminho recomendado pela literatura é redirecionar o foco: em vez de tentar resolver a comunicação do casal agora, a prioridade passa a ser **avaliação e suporte de saúde mental para ela**, além de apoio para você, que está sobrecarregado.
+
+Uma abordagem útil seria mudar o tom da conversa para uma postura de cuidado com a saúde dela, sem cobranças. Por exemplo:
+*"Percebo que desde que nosso bebê nasceu você tem ficado muito isolada e cansada. Estou preocupado com a sua saúde e com o que você está sentindo. Quero te ajudar a passar por isso. O que acha de agendarmos uma consulta com um profissional de saúde para avaliar como você está?"*
+
+Como você avalia a possibilidade de ela aceitar uma conversa focada na saúde mental dela? E ela tem feito algum acompanhamento médico de rotina (como consulta ginecológica ou pediátrica) desde o parto?
+
