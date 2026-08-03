@@ -39,3 +39,10 @@ Cansado
 **Você** _(03/08/2026, 09:09:06)_
 eu não consigo me comunicar com a minha esposa
 
+**Elo** _(03/08/2026, 09:09:14)_
+[NEUTRO] Olá, Diego. Problemas de comunicação no casamento costumam gerar um desgaste emocional grande e podem colaborar diretamente para esse sentimento de cansaço que você descreveu.
+
+Como a comunicação pode falhar de várias formas diferentes, preciso entender melhor o que acontece no caso de vocês. 
+
+Quando você tenta se comunicar com a sua esposa, o que costuma acontecer? Por exemplo: as conversas viram discussões com frequência, um de vocês se afasta e prefere o silêncio, ou vocês sentem que conversam, mas não conseguem se entender?
+
