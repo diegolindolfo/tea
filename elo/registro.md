@@ -68,3 +68,6 @@ Isso não significa que a situação seja fácil para você, mas ajuda a olhar p
 
 Para termos uma visão mais clara do quadro: há quanto tempo você percebe essa postura de cansaço e isolamento nela? E fora a vida a dois, como está a rotina dela em relação a trabalho, responsabilidades do dia a dia ou saúde?
 
+**Você** _(03/08/2026, 09:18:09)_
+ela não tem uma vida muito animada. temos dois filhos, uma bebe de 6 meses e um rapaz de 7a nos, autista. a rotina, eu que cuido, escola do mais velho, finanças, comida, compras, terapias do mais velho, tarefas domésticas. ela amamenta, come, me entrega a bebe quando chego do trabalho e corre para o quarto, tranca a porta e só abre quando a bebe quer comer. O único compromisso dela é quando a bebe tem vacina, e o banho da bebe
+
