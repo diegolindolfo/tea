@@ -36,3 +36,6 @@ Cansado
 **Você** _(03/08/2026, 09:08:50)_
 [anamnese: humor] Cansado
 
+**Você** _(03/08/2026, 09:09:06)_
+eu não consigo me comunicar com a minha esposa
+
