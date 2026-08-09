@@ -74,3 +74,6 @@ Também é interessante notar que essa sensação é diferente da que você tem 
 
 Essa preocupação com o futuro tem impedido você de aproveitar o dia a dia com ela no presente, ou ela fica mais contida no campo das ideias?
 
+**Você** _(09/08/2026, 19:23:23)_
+Não impede, mas é doloroso. E ainda tem culpa, de me sentir machista, já que esse medo não se manifesta para o menino. As mídias também me mostram feminicidios, mulheres mutiladas, adolescentes grávidas, abandonadas, famílias tentando juntar os cacos de uma mulher
+
