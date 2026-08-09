@@ -65,3 +65,12 @@ Como tem sido para você essa experiência da paternidade nesses primeiros seis 
 **Você** _(09/08/2026, 19:19:47)_
 Eu já tenho um filho de 7 anos. Mas com ele os sentimentos são diferentes. Minha questão é que me dá uma angústia, ou outro sentimento que não sei nomear, do medo de quando ela crescer, vão levar ela embora. Ela vai se relacionar e esses caras podem ser ruins, fazerem mal a ela, magoar, ou só tirarem ela do nosso convívio, é como se roubassem ela da gente.
 
+**Elo** _(09/08/2026, 19:19:56 · hypothesis)_
+[HIPOTESE] Uma possibilidade é que essa angústia venha do encontro entre um afeto muito intenso e a dolorosa constatação de que não temos controle sobre o futuro. Quando nos vemos diante de um bebê de 6 meses, uma criatura tão dependente e vulnerável, o instinto de proteção pode se elevar ao máximo. Em resposta a isso, a mente por vezes tenta "nos preparar" criando cenários catastróficos — como a ideia de que ela será magoada, afastada ou que "roubarão" ela de você no futuro.
+
+Na psicologia, chamamos isso de ansiedade antecipatória e pensamento catastrófico. O cérebro projeta perigos que poderiam acontecer daqui a 15 ou 20 anos e reage a eles no presente, como se o risco fosse imediato. Isso gera uma sensação de desamparo, porque é impossível resolver hoje problemas que sequer existem.
+
+Também é interessante notar que essa sensação é diferente da que você tem com seu filho de 7 anos. Frequentemente, a forma como percebemos a vulnerabilidade de um bebê recém-nascido ativa alarmes de proteção diferentes daqueles ativados por uma criança maior, que já demonstra mais autonomia.
+
+Essa preocupação com o futuro tem impedido você de aproveitar o dia a dia com ela no presente, ou ela fica mais contida no campo das ideias?
+
