@@ -39,3 +39,10 @@ Neutro
 **Você** _(09/08/2026, 19:15:39)_
 Oi
 
+**Elo** _(09/08/2026, 19:15:43)_
+[NEUTRO] Olá, Diego. 
+
+Entendo que você veio até aqui por conta de algumas dificuldades no seu relacionamento com sua esposa. 
+
+Para que a gente possa começar a entender o cenário e organizar isso juntos, você poderia me contar um pouco sobre o que tem acontecido entre vocês recentemente? O que especificamente tem sido mais difícil de lidar no momento?
+
