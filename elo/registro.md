@@ -62,3 +62,6 @@ Minha filha é bebê, tem 6 meses. Nós a amamos muito
 
 Como tem sido para você essa experiência da paternidade nesses primeiros seis meses? Tem algo específico relacionado a ela ou a esse momento que você gostaria de compartilhar hoje?
 
+**Você** _(09/08/2026, 19:19:47)_
+Eu já tenho um filho de 7 anos. Mas com ele os sentimentos são diferentes. Minha questão é que me dá uma angústia, ou outro sentimento que não sei nomear, do medo de quando ela crescer, vão levar ela embora. Ela vai se relacionar e esses caras podem ser ruins, fazerem mal a ela, magoar, ou só tirarem ela do nosso convívio, é como se roubassem ela da gente.
+
