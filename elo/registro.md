@@ -54,3 +54,6 @@ Outro assunto
 
 Podemos falar sobre o que for mais importante ou confortável para você no momento. O que você gostaria de trazer para a nossa conversa hoje?
 
+**Você** _(09/08/2026, 19:16:33)_
+Minha filha é bebê, tem 6 meses. Nós a amamos muito
+
