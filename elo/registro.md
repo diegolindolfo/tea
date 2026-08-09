@@ -77,3 +77,16 @@ Essa preocupação com o futuro tem impedido você de aproveitar o dia a dia com
 **Você** _(09/08/2026, 19:23:23)_
 Não impede, mas é doloroso. E ainda tem culpa, de me sentir machista, já que esse medo não se manifesta para o menino. As mídias também me mostram feminicidios, mulheres mutiladas, adolescentes grávidas, abandonadas, famílias tentando juntar os cacos de uma mulher
 
+**Elo** _(09/08/2026, 19:23:32 · hypothesis)_
+[HIPOTESE] Uma possibilidade é que a culpa surja porque você está julgando o seu sentimento com base em uma regra moral, sem levar em conta como a nossa atenção e o nosso cérebro funcionam diante de ameaças percebidas. 
+
+Sentir um medo diferente em relação à sua filha não significa necessariamente um viés machista no sentido de preconceito ou controle, mas sim o reflexo de duas coisas: a percepção real de que mulheres enfrentam estatisticamente formas específicas de violência na nossa sociedade e a forma como o consumo de informação afeta a sua mente.
+
+Quando você é exposto com frequência a notícias e conteúdos sobre feminicídio e violência contra a mulher, acontece o que a psicologia cognitiva chama de *heurística da disponibilidade*. O seu cérebro, tentando proteger sua filha, usa as imagens mais vívidas e assustadoras que viu na mídia como se fossem um indicativo de que aquilo é um destino quase inevitável ou iminente. O medo reage à gravidade do fato exposto na tela, e não à realidade do momento presente, onde ela é um bebê de 6 meses seguro sob os seus cuidados.
+
+A culpa por sentir esse medo diferente em relação ao seu filho de 7 anos acaba criando uma segunda camada de sofrimento: além de sentir a dor do medo do futuro, você se pune por sentir o medo.
+
+Em vez de tentar lutar contra essa preocupação ou se julgar por ela, pode ser útil olhar para esse sentimento não como uma falha moral sua, mas como um "alarme de proteção" que está desregulado e tocando alto demais.
+
+Você percebe se o seu uso de redes sociais ou consumo de notícias tem alimentado ativamente esse tipo de conteúdo no seu dia a dia, ou esses cenários aparecem mais de forma involuntária nos seus pensamentos?
+
