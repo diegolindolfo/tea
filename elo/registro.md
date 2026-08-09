@@ -57,3 +57,8 @@ Podemos falar sobre o que for mais importante ou confortável para você no mome
 **Você** _(09/08/2026, 19:16:33)_
 Minha filha é bebê, tem 6 meses. Nós a amamos muito
 
+**Elo** _(09/08/2026, 19:16:38 · fact)_
+[FATO] Vocês têm uma filha de 6 meses e um vínculo forte de afeto com ela. A chegada e o crescimento de um bebê trazem transformações profundas na rotina e na vida de qualquer casal.
+
+Como tem sido para você essa experiência da paternidade nesses primeiros seis meses? Tem algo específico relacionado a ela ou a esse momento que você gostaria de compartilhar hoje?
+
