@@ -46,3 +46,6 @@ Entendo que você veio até aqui por conta de algumas dificuldades no seu relaci
 
 Para que a gente possa começar a entender o cenário e organizar isso juntos, você poderia me contar um pouco sobre o que tem acontecido entre vocês recentemente? O que especificamente tem sido mais difícil de lidar no momento?
 
+**Você** _(09/08/2026, 19:16:00)_
+Outro assunto
+
