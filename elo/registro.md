@@ -90,3 +90,6 @@ Em vez de tentar lutar contra essa preocupação ou se julgar por ela, pode ser 
 
 Você percebe se o seu uso de redes sociais ou consumo de notícias tem alimentado ativamente esse tipo de conteúdo no seu dia a dia, ou esses cenários aparecem mais de forma involuntária nos seus pensamentos?
 
+**Você** _(10/08/2026, 10:11:13)_
+Tem sim
+
