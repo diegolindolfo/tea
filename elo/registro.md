@@ -93,3 +93,18 @@ Você percebe se o seu uso de redes sociais ou consumo de notícias tem alimenta
 **Você** _(10/08/2026, 10:11:13)_
 Tem sim
 
+**Elo** _(10/08/2026, 10:11:24 · fact)_
+[FATO] Reconhecer que o consumo de mídias e algoritmos está alimentando diretamente esse ciclo é um ponto fundamental. 
+
+Os algoritmos de redes sociais e portais de notícias funcionam com base no engajamento emocional — e conteúdos de perigo, dor e tragédia prendem muito a nossa atenção. Quanto mais você consome ou pausa para ver histórias violentas, mais essas plataformas entendem que devem te entregar esse tipo de material. O resultado é a ilusão de que o mundo se tornou um lugar onde só existem tragédias, mantendo seu sistema de alerta acionado continuamente.
+
+Para quebrar esse ciclo, uma abordagem muito eficaz é o **controle de estímulos**. Não se trata de ignorar que a violência existe no mundo, mas de parar de superalimentar a sua mente com desgraças diárias que você não tem como resolver e que só geram sofrimento inútil no presente.
+
+Algumas ações práticas para isso envolvem:
+
+1. **Ajustar o algoritmo:** Usar ativamente a opção "não tenho interesse", deixar de seguir páginas de notícias policiais, programas sensacionalistas ou perfis que expõem tragédias.
+2. **Consumo intencional de informação:** Em vez de rolar o feed passivamente e ser bombardeado por imagens pesadas, definir momentos específicos do dia para ler notícias de forma consciente e com limites de tempo.
+3. **Ancoragem no presente:** Sempre que a mente for puxada para a imagem de uma mulher ferida e conectar isso ao futuro da sua filha, lembre-se: esse é um estímulo externo e esse futuro não existe hoje. Traga a atenção de volta para o momento atual — a bebê de 6 meses que está no seu colo ou no berço agora, segura sob os seus cuidados.
+
+Como você avalia a possibilidade de fazer um ajuste na sua rotina digital nos próximos dias, reduzindo a exposição a esse tipo de conteúdo, para observar como o seu nível de angústia reage?
+
