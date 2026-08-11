@@ -137,3 +137,6 @@ Para que eu possa entender melhor a situação e como te ajudar a lidar com isso
 **Você** _(11/08/2026, 08:48:00)_
 Ele é muito inteligente e amoroso, mas de comportamento muito restrito. Fala e se comunica, mas não conversa nem gosta de manter diálogo. Brinca sozinho, não tem amigos, faz terapia 4 vezes na semana, tem 7 anos. Está na segunda série. Hoje desenvolveu muitos rituais e aceita poucas variações de rotinas.
 
+**Elo** _(11/08/2026, 08:48:11)_
+[NEUTRO] Não consegui responder agora: Failed to fetch
+
