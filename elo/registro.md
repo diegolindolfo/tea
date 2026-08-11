@@ -127,3 +127,10 @@ Meu filho, Thales, de 7 anos, ainda tem muitas dificuldades. Sinto que ele preci
 **Você** _(11/08/2026, 08:41:13)_
 Ok
 
+**Elo** _(11/08/2026, 08:41:22 · hypothesis)_
+[HIPOTESE] Uma hipótese é que essa sensação de "não ser suficiente" surja do descompasso entre o grande esforço que você faz e a persistência das dificuldades do Thales. Quando nos dedicamos para ajudar um filho e os problemas continuam presentes, a mente humana tende a interpretar a falta de uma solução rápida como uma falha pessoal, em vez de reconhecer que o desenvolvimento infantil é um processo gradual e complexo.
+
+O papel de pai diante de uma criança em fase de crescimento (e que demanda cuidados específicos) exige um consumo alto de energia física e emocional. Quando existe uma cobrança interna muito elevada sobre "como deveria ser" o resultado do seu empenho, surge uma sensação crônica de insuficiência e culpa.
+
+Para que eu possa entender melhor a situação e como te ajudar a lidar com isso: quais são as principais dificuldades que o Thales tem enfrentado no momento? São questões relacionadas à escola, ao comportamento, às emoções ou a outro aspecto?
+
