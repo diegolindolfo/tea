@@ -184,3 +184,6 @@ Algumas alternativas baseadas em evidências incluem:
 
 Como soa para você a ideia de tentar introduzir um pequeno momento de presença ao lado dele durante o dia, de forma curta e sem a cobrança de manter uma conversa?
 
+**Você** _(11/08/2026, 08:55:22)_
+O que sabe sobre mim até agora
+
