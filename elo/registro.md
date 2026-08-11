@@ -149,3 +149,16 @@ Ok
 **Você** _(11/08/2026, 08:49:12)_
 Ok
 
+**Elo** _(11/08/2026, 08:49:22 · hypothesis)_
+[HIPOTESE] Uma possibilidade é que a sua sensação de "não ser suficiente" venha do fato de você estar medindo a sua eficiência como pai pelos resultados no comportamento do Thales, e não pela consistência do apoio que você oferece a ele.
+
+Crianças que apresentam uma forte necessidade de previsibilidade, comportamentos restritos, rituais rígidos e dificuldades no engajamento social (como manter diálogos ou fazer amigos) processam o mundo e as interações de uma forma particular. Para elas, a rotina e a previsibilidade funcionam como uma estrutura de segurança para lidar com o ambiente. 
+
+O fato de o Thales já estar em um acompanhamento terapêutico intensivo (4 vezes por semana) e de você reconhecer as qualidades dele — como ser inteligente e afetuoso — indica que ele conta com um ambiente muito bem estruturado e com um pai profundamente envolvido.
+
+No entanto, o progresso em perfis com esse tipo de rigidez e perfil comunicativo costuma ser lento e gradual. Quando um pai dedica muita energia esperando que a criança responda de forma neurotípica (por exemplo, sustentando uma conversa longa ou brincando com outras crianças), a falta dessa resposta pode gerar um sentimento doloroso de frustração e impotência. 
+
+Na verdade, para uma criança com essas características, a sua presença estável e previsível já é a maior fonte de suporte, mesmo que ele não consiga demonstrar isso através de diálogos tradicionais.
+
+Como você costuma reagir e como se sente no momento em que ele demonstra resistência às mudanças na rotina ou quando se isola?
+
