@@ -187,3 +187,17 @@ Como soa para você a ideia de tentar introduzir um pequeno momento de presença
 **Você** _(11/08/2026, 08:55:22)_
 O que sabe sobre mim até agora
 
+**Elo** _(11/08/2026, 08:55:26)_
+[NEUTRO] Com base no que você compartilhou nas nossas conversas, o que sei sobre a sua realidade atual é o seguinte:
+
+* **Nome:** Diego.
+* **Família:** Você é casado, pai do Thales (7 anos) e de uma bebê de 6 meses.
+* **Histórico com terapia:** Esta é a sua primeira experiência com acompanhamento terapêutico.
+* **Questões trazidas:**
+  1. Relacionamento: Inicialmente mencionou problemas com sua esposa, embora tenhamos mudado de assunto nas mensagens seguintes.
+  2. Relação com a filha e ansiedade sobre o futuro: Uma angústia e culpa por medos intensos de que sua filha seja prejudicada ou afastada de você quando crescer, alimentados em parte por notícias e mídias sobre violência contra a mulher.
+  3. Relação com o filho (Thales): Uma sensação de ansiedade e insuficiência como pai. O Thales tem 7 anos, cursa a 2ª série, faz terapia 4 vezes por semana, apresenta comportamentos bastante restritos, rotinas/rituais rígidos, baixa iniciativa para diálogos ou amizades, e momentos de desregulação.
+  4. Rotina e telas: Sobrecarga devido às altas demandas do bebê e do Thales, levando a um uso frequente de celular por parte de você e do seu filho como forma de lidar com o cansaço e a regulação emocional.
+
+Esse é o quadro de informações que você me forneceu diretamente até o momento. Há algo nessa síntese que você gostaria de corrigir ou acrescentar?
+
