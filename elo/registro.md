@@ -108,3 +108,6 @@ Algumas ações práticas para isso envolvem:
 
 Como você avalia a possibilidade de fazer um ajuste na sua rotina digital nos próximos dias, reduzindo a exposição a esse tipo de conteúdo, para observar como o seu nível de angústia reage?
 
+**Você** _(11/08/2026, 08:39:17)_
+Bom dia. Outra questão
+
