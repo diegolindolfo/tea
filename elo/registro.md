@@ -118,3 +118,6 @@ Sem problemas, podemos mudar o foco.
 
 Fique à vontade para compartilhar o que mais tem preocupado você ou qual é a questão que gostaria de explorar hoje.
 
+**Você** _(11/08/2026, 08:40:30)_
+Meu filho, Thales, de 7 anos, ainda tem muitas dificuldades. Sinto que ele precisa mais de mim agora, e eu me esforço, mas parece não ser suficiente ainda
+
