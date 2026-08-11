@@ -111,3 +111,10 @@ Como você avalia a possibilidade de fazer um ajuste na sua rotina digital nos p
 **Você** _(11/08/2026, 08:39:17)_
 Bom dia. Outra questão
 
+**Elo** _(11/08/2026, 08:39:23)_
+[NEUTRO] Bom dia, Diego.
+
+Sem problemas, podemos mudar o foco. 
+
+Fique à vontade para compartilhar o que mais tem preocupado você ou qual é a questão que gostaria de explorar hoje.
+
