@@ -165,3 +165,22 @@ Como você costuma reagir e como se sente no momento em que ele demonstra resist
 **Você** _(11/08/2026, 08:51:36)_
 Como ele não conversa, e se desregula muito, além da alta demanda de cuidado com a irmã de 6 meses, ele acaba ficando muito no celular. E eu também
 
+**Elo** _(11/08/2026, 08:51:41 · hypothesis)_
+[HIPOTESE] Uma hipótese é que o uso excessivo do celular, tanto para você quanto para o Thales, tenha se tornado uma estratégia de regulação emocional e de alívio do estresse no ambiente doméstico.
+
+Diante do cansaço extremo provocado por um bebê de 6 meses que exige cuidados constantes, somado à carga de gerenciar um filho de 7 anos com alta necessidade de previsibilidade e episódios de desregulação, a energia do ambiente fica saturada. Nessas condições, o celular surge como um recurso de alívio rápido: para o Thales, o aparelho oferece um ambiente altamente previsível, controlado e sem as demandas sociais ou sensoriais que o desregulam; para você, funciona como uma pausa necessária e um refúgio contra o desgaste do dia a dia.
+
+O grande desafio é que, embora o celular traga um alívio imediato, o uso prolongado tende a aumentar a rigidez do Thales no longo prazo, além de reduzir ainda mais a interação de vocês e aumentar o seu sentimento de culpa.
+
+Na psicologia e na TCC, trabalhamos com a ideia de **redução de danos** e **pequenos passos ajustados à realidade**. Exigir que você elimine as telas ou crie interações longas e perfeitas agora seria irrealista diante da sua sobrecarga atual. 
+
+Uma estratégia viável para começar a mudar esse cenário sem gerar exaustão seria identificar momentos de "conexão de baixa demanda". Para o Thales, isso significa interagir sem a pressão do diálogo formal.
+
+Algumas alternativas baseadas em evidências incluem:
+
+1. **Estar presente no mundo dele sem pressionar:** Em vez de tentar puxar uma conversa, sente-se ao lado dele enquanto ele brinca ou faz um de seus rituais e apenas comente de forma neutra o que ele está fazendo (ex: "você colocou o carro vermelho ao lado do azul"), sem esperar que ele responda. Isso valida a presença dele sem exigir habilidades de conversação que o estressam.
+2. **Pequenas pausas de tela em momentos de rotina já estabelecidos:** Tentar criar micro-interações sem tela durante atividades obrigatórias, como na hora da refeição ou no banho, que já têm um início e fim previsíveis.
+3. **Autocompaixão:** Reconhecer que o uso das telas neste momento é um sintoma da sobrecarga da família, e não uma falha de caráter sua.
+
+Como soa para você a ideia de tentar introduzir um pequeno momento de presença ao lado dele durante o dia, de forma curta e sem a cobrança de manter uma conversa?
+
