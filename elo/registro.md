@@ -162,3 +162,6 @@ Na verdade, para uma criança com essas características, a sua presença estáv
 
 Como você costuma reagir e como se sente no momento em que ele demonstra resistência às mudanças na rotina ou quando se isola?
 
+**Você** _(11/08/2026, 08:51:36)_
+Como ele não conversa, e se desregula muito, além da alta demanda de cuidado com a irmã de 6 meses, ele acaba ficando muito no celular. E eu também
+
