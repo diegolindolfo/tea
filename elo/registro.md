@@ -204,3 +204,42 @@ Esse é o quadro de informações que você me forneceu diretamente até o momen
 **Você** _(12/08/2026, 07:01:36)_
 O que eu poderia fazer de prático pra me sentir melhor
 
+**Elo** _(12/08/2026, 07:01:43 · hypothesis)_
+[HIPOTESE] Uma possibilidade é que a sensação de ansiedade e sobrecarga que você sente venha de uma tentativa diária de resolver problemas muito grandes e distantes (como o futuro da sua filha daqui a anos ou as dificuldades profundas de desenvolvimento do Thales) no meio do cansaço do dia a dia. 
+
+Quando a mente tenta dar conta de tudo isso de uma vez, a sensação de incapacidade é inevitável. Para começar a se sentir melhor, a psicologia baseada em evidências sugere focar em **ações de curto prazo e de baixo custo de energia**, reorganizando o seu cotidiano e a forma como você lida com seus pensamentos.
+
+Aqui estão quatro estratégias práticas e tecnicamente fundamentadas para o seu momento:
+
+---
+
+### 1. Higiene de Informação e Redução da Ansiedade Antecipatória
+O seu cérebro está em estado de hipervigilância, alimentado por notícias tragicamente vívidas.
+* **Ação prática:** Faça uma "limpeza" digital. Desative notificações de portais de notícias no celular, pare de seguir contas que postam crimes/tragédias e evite olhar o celular na primeira e na última hora do dia. 
+* **O porquê:** Reduzir os gatilhos externos reduz diretamente os surtos de pensamento catastrófico sobre o futuro da sua filha.
+
+---
+
+### 2. Ajuste de Expectativas no Relacionamento com o Thales
+Mudar a forma como você mede o seu sucesso como pai do Thales alivia a culpa imediatamente.
+* **Ação prática:** Defina a sua meta diária com o Thales não como "fazer ele conversar" ou "fazer ele parar de usar o celular", mas sim como **"estar presente em silêncio por 10 minutos"**. Sente-se ao lado dele, observe o que ele faz e descreva o ambiente sem fazer perguntas ou exigir respostas (ex: "Você está alinhando os blocos azuis").
+* **O porquê:** Tirar a pressão da comunicação verbal reduz a chance de desregulação dele e diminui a sua frustração, construindo conexão de uma forma que o cérebro dele tolera.
+
+---
+
+### 3. Gerenciamento do Uso de Telas (Sua e dele) de Forma Gradual
+Tentar cortar o celular de uma hora para outra em uma casa com um bebê e uma criança atípica gera mais estresse.
+* **Ação prática:** Aplique a regra das **"Zonas Livres de Tela"**. Escolha apenas um momento fixo do dia para ser 100% sem telas para todos (por exemplo, durante o almoço ou os 15 minutos antes de dormir). O restante do dia permanece como está por enquanto.
+* **O porquê:** Pequenas vitórias previsíveis trazem sensação de controle sem esgotar sua energia.
+
+---
+
+### 4. Pausas de Autocuidado Micro-Estruturadas
+Com dois filhos (sendo um bebê e outro com altas demandas), você está em risco contínuo de esgotamento (burnout parental).
+* **Ação prática:** Combine com sua esposa uma "pausa inegociável" de 20 minutos por dia para cada um de vocês. Um tempo individual onde você não cuida das crianças, não olha notícias pesadas e pode apenas descansar, tomar um banho calmo ou caminhar.
+* **O porquê:** A regulação emocional das crianças depende da regulação dos pais. Você não consegue oferecer calma se o seu próprio reservatório estiver zerado.
+
+---
+
+Qual dessas quatro estratégias você sente que seria mais viável de testar primeiro na sua rotina a partir de hoje?
+
