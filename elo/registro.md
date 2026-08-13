@@ -251,3 +251,6 @@ Oi
 
 Como estão as coisas por aí desde a nossa última conversa? Conseguiu pensar em alguma daquelas estratégias práticas, ou tem algo diferente ocupando a sua mente hoje?
 
+**Você** _(13/08/2026, 18:52:20)_
+Diferentes
+
