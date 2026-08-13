@@ -262,3 +262,10 @@ O que tem ocupado a sua mente agora? Quer me contar o que mudou ou qual é o ass
 **Você** _(13/08/2026, 18:52:43)_
 Sexo com a minha esposa. É sempre uma incógnita
 
+**Elo** _(13/08/2026, 18:52:44 · hypothesis)_
+[HIPOTESE] Uma hipótese é que a imprevisibilidade e a oscilação na vida sexual com a sua esposa estejam gerando uma sensação de frustração ou ansiedade, agravada pelo momento exaustivo que vocês vivem com os filhos pequenos.
+
+Quando há um bebê de 6 meses e uma criança com altas demandas em casa, a dinâmica do casal costuma sofrer um impacto profundo. O cansaço físico, a falta de tempo e a sobrecarga mental frequentemente esvaziam o desejo e tornam a intimidade algo raro ou difícil de prever.
+
+Quando você diz que a vida sexual é "sempre uma incógnita", o que exatamente costuma acontecer? É sobre a frequência, sobre não saber quando ou como a intimidade vai acontecer, ou há uma distância que tem incomodado vocês dois?
+
