@@ -8,6 +8,9 @@ Tay
 **O que te trouxe até aqui hoje?**
 Terminei um relacionamento
 
+**Você já fez acompanhamento terapêutico antes?**
+Não
+
 ---
 
 ## Conversa
@@ -19,4 +22,8 @@ Terminei um relacionamento
 **Você** _(13/08/2026, 18:23:08)_
 
 [anamnese: motivo] Terminei um relacionamento
+
+**Você** _(13/08/2026, 18:23:14)_
+
+[anamnese: terapia_previa] Não
 
