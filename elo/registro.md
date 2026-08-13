@@ -53,3 +53,7 @@ Oi
 
 Olá?
 
+**Elo** _(13/08/2026, 18:27:32)_
+
+[NEUTRO] Desculpe, tive uma oscilação na conexão: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+
