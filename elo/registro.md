@@ -65,3 +65,7 @@ Estou me sentindo sobrecarregado(a) e preciso organizar meus pensamentos.
 
 
 
+**Você** _(13/08/2026, 18:31:16)_
+
+Oi
+
