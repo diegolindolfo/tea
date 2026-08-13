@@ -69,3 +69,7 @@ Estou me sentindo sobrecarregado(a) e preciso organizar meus pensamentos.
 
 Oi
 
+**Elo** _(13/08/2026, 18:31:24)_
+
+
+
