@@ -41,3 +41,7 @@ Bem
 
 [anamnese: humor] Bem
 
+**Você** _(13/08/2026, 18:27:11)_
+
+Oi
+
