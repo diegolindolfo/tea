@@ -259,3 +259,6 @@ Diferentes
 
 O que tem ocupado a sua mente agora? Quer me contar o que mudou ou qual é o assunto que você gostaria de trazer para conversarmos?
 
+**Você** _(13/08/2026, 18:52:43)_
+Sexo com a minha esposa. É sempre uma incógnita
+
