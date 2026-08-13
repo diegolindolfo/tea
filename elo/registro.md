@@ -246,3 +246,8 @@ Qual dessas quatro estratégias você sente que seria mais viável de testar pri
 **Você** _(13/08/2026, 18:52:06)_
 Oi
 
+**Elo** _(13/08/2026, 18:52:08)_
+[NEUTRO] Olá, Diego. 
+
+Como estão as coisas por aí desde a nossa última conversa? Conseguiu pensar em alguma daquelas estratégias práticas, ou tem algo diferente ocupando a sua mente hoje?
+
