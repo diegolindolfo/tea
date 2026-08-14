@@ -6,7 +6,7 @@
 tay
 
 **O que te trouxe até aqui hoje?**
-Quero refletir sobre uma situação difícil que aconteceu hoje.
+um término recente
 
 ---
 
@@ -39,4 +39,8 @@ Podemos ir no seu ritmo.
 **Você** _(14/08/2026, 10:19:58)_
 
 [anamnese: nome] tay
+
+**Você** _(14/08/2026, 10:20:04)_
+
+[anamnese: motivo] um término recente
 
