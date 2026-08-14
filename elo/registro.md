@@ -77,3 +77,7 @@ Espero que o seu dia tenha sido o mais leve possível, dentro do momento que voc
 
 Como foram as coisas para você ao longo do dia? Se sentir vontade de compartilhar, estou aqui para te ouvir — seja para falar sobre como o dia transcorreu, sobre o cansaço que você mencionou ou apenas para organizar os pensamentos antes de descansar.
 
+**Você** _(14/08/2026, 20:52:52)_
+
+Estou relativamente bem
+
