@@ -49,3 +49,7 @@ oi
 
 [NEUTRO] Olá. Como posso ajudar você hoje?
 
+**Você** _(14/08/2026, 09:50:22)_
+
+quero namorar minah esposa
+
