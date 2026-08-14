@@ -65,3 +65,7 @@ Podemos ir no seu ritmo.
 
 [anamnese: humor] Cansado
 
+**Você** _(14/08/2026, 10:20:24)_
+
+oi
+
