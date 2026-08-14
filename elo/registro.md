@@ -41,3 +41,7 @@ Neutro
 
 [anamnese: humor] Neutro
 
+**Você** _(14/08/2026, 09:48:44)_
+
+oi
+
