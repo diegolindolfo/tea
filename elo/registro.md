@@ -65,3 +65,11 @@ Estou me sentindo sobrecarregado(a) e preciso organizar meus pensamentos.
 
 oi
 
+**Elo** _(14/08/2026, 10:03:41)_
+
+[NEUTRO] Oi, Tay. Estou aqui com você.
+
+Você havia mencionado que está se sentindo sobrecarregada e que precisa organizar seus pensamentos. Quando passamos por um término, é muito comum que a mente fique cheia de coisas ao mesmo tempo — memórias, dúvidas, a quebra da rotina e o próprio cansaço físico e emocional.
+
+Vamos dar um passo de cada vez para tirar esse peso da sua cabeça. Se você puder escolher apenas uma coisa que parece estar ocupando mais espaço ou gerando mais angústia agora, qual seria?
+
