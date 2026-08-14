@@ -24,3 +24,15 @@ Quero refletir sobre uma situação difícil que aconteceu hoje.
 
 Quero refletir sobre uma situação difícil que aconteceu hoje.
 
+**Elo** _(14/08/2026, 10:13:09)_
+
+[NEUTRO]
+
+Estou aqui para acompanhar você nessa reflexão. Ter um espaço seguro para organizar o que aconteceu pode ajudar a clarear os pensamentos e compreender melhor o impacto da situação.
+
+Quando se sentir confortável, conte-me:
+1. O que aconteceu, em linhas gerais (os fatos da situação)?
+2. Como você se sentiu no momento e como está se sentindo agora?
+
+Podemos ir no seu ritmo.
+
