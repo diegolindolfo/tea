@@ -181,3 +181,7 @@ Vamos fazer no seu ritmo. Comece olhando ao redor e me diga:
 
 **5 coisas** que você consegue ver neste momento onde você está. Podem ser objetos comuns, cores ou detalhes simples.
 
+**Você** _(13/08/2026, 23:39:10)_
+
+Quero dar meu cu pro meu ex, mas tenho medo de me apaixonar de novo
+
