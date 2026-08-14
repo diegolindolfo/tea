@@ -8,6 +8,9 @@ tay
 **O que te trouxe até aqui hoje?**
 um término recente
 
+**Você já fez acompanhamento terapêutico antes?**
+Não
+
 ---
 
 ## Conversa
@@ -43,4 +46,8 @@ Podemos ir no seu ritmo.
 **Você** _(14/08/2026, 10:20:04)_
 
 [anamnese: motivo] um término recente
+
+**Você** _(14/08/2026, 10:20:07)_
+
+[anamnese: terapia_previa] Não
 
