@@ -173,3 +173,11 @@ Gostaria de fazer o exercício de grounding 5-4-3-2-1.
 
 Oi
 
+**Elo** _(13/08/2026, 23:38:23 · [FACT])_
+
+[FATO] Olá, Tay. Podemos fazer isso sim. O exercício de grounding (aterramento) é uma técnica baseada em evidências que ajuda a ancorar a atenção no momento presente através dos sentidos, o que costuma ser útil para reduzir a sensação de sobrecarga.
+
+Vamos fazer no seu ritmo. Comece olhando ao redor e me diga:
+
+**5 coisas** que você consegue ver neste momento onde você está. Podem ser objetos comuns, cores ou detalhes simples.
+
