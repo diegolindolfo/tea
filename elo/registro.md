@@ -45,3 +45,11 @@ Cansado
 
 olá
 
+**Elo** _(14/08/2026, 10:02:16)_
+
+[NEUTRO] Olá, Tay. Seja bem-vinda ao Elo.
+
+Sei que você está passando por um término de relacionamento recente e que tem se sentido bastante cansada nos últimos dias. Rompimentos costumam demandar muita energia emocional, e é completamente compreensível que você se sinta assim.
+
+Este é um espaço seguro e sem pressa para você organizar seus pensamentos e sentimentos. Como estão as coisas por aí hoje? Se quiser, pode me contar um pouco sobre como tem sido lidar com esse momento.
+
