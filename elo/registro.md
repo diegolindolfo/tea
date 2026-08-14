@@ -20,3 +20,7 @@ Quero refletir sobre uma situação difícil que aconteceu hoje.
 
 [anamnese: motivo] Quero refletir sobre uma situação difícil que aconteceu hoje.
 
+**Você** _(14/08/2026, 10:13:07)_
+
+Quero refletir sobre uma situação difícil que aconteceu hoje.
+
