@@ -142,3 +142,11 @@ Como tem sido para você gerenciar todo esse peso sozinho no dia a dia? Você te
 
 oi
 
+**Elo** _(14/08/2026, 10:12:03)_
+
+[NEUTRO] Oi, Diego. Estou por aqui. 
+
+Estávamos falando sobre o peso que você vem sustentando sozinho na rotina com as crianças e a casa, e sobre como tentar viabilizar uma ajuda médica para a sua esposa diante desse isolamento.
+
+Como você está agora? Se quiser continuar de onde paramos ou falar sobre o que está passando pela sua cabeça neste momento, fique à vontade.
+
