@@ -53,3 +53,7 @@ Sei que você está passando por um término de relacionamento recente e que tem
 
 Este é um espaço seguro e sem pressa para você organizar seus pensamentos e sentimentos. Como estão as coisas por aí hoje? Se quiser, pode me contar um pouco sobre como tem sido lidar com esse momento.
 
+**Você** _(14/08/2026, 10:02:30)_
+
+Estou me sentindo sobrecarregado(a) e preciso organizar meus pensamentos.
+
