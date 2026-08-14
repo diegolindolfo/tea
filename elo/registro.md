@@ -3,7 +3,7 @@
 ## Anamnese Inicial
 
 **Antes de começarmos: como você prefere que eu te chame?**
-Quero refletir sobre uma situação difícil que aconteceu hoje.
+tay
 
 **O que te trouxe até aqui hoje?**
 Quero refletir sobre uma situação difícil que aconteceu hoje.
@@ -35,4 +35,8 @@ Quando se sentir confortável, conte-me:
 2. Como você se sentiu no momento e como está se sentindo agora?
 
 Podemos ir no seu ritmo.
+
+**Você** _(14/08/2026, 10:19:58)_
+
+[anamnese: nome] tay
 
