@@ -69,3 +69,11 @@ Para que possamos pensar em caminhos práticos, o que "se sentir bem" significa 
 
 Boa noite
 
+**Elo** _(14/08/2026, 20:52:30)_
+
+[NEUTRO] Boa noite, Taynara.
+
+Espero que o seu dia tenha sido o mais leve possível, dentro do momento que você está atravessando. 
+
+Como foram as coisas para você ao longo do dia? Se sentir vontade de compartilhar, estou aqui para te ouvir — seja para falar sobre como o dia transcorreu, sobre o cansaço que você mencionou ou apenas para organizar os pensamentos antes de descansar.
+
