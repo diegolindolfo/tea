@@ -11,6 +11,9 @@ Super
 **Você já fez acompanhamento terapêutico antes?**
 Não
 
+**Nas últimas duas semanas, você teve pensamentos de se machucar ou de que não valeria a pena continuar?**
+Não
+
 ---
 
 ## Conversa
@@ -23,4 +26,7 @@ Não
 
 **Você** _(13/08/2026, 21:44:42)_
 [anamnese: terapia_previa] Não
+
+**Você** _(13/08/2026, 21:44:46)_
+[anamnese: seguranca] Não
 
