@@ -185,3 +185,11 @@ Vamos fazer no seu ritmo. Comece olhando ao redor e me diga:
 
 Quero dar meu cu pro meu ex, mas tenho medo de me apaixonar de novo
 
+**Elo** _(13/08/2026, 23:39:14 · [FACT])_
+
+[FATO] Tay, você colocou em palavras um dilema bastante concreto: existe um desejo de proximidade física com o seu ex, mas ao mesmo tempo há um medo protetivo de reabrir espaço para um sofrimento emocional que você tem evitado desde o término.
+
+[HIPOTESE] Uma hipótese é que o seu corpo e a sua memória buscam a familiaridade e o alívio rápido que essa conexão traz, enquanto a sua mente tenta antecipar o risco de se envolver emocionalmente de novo e acabar se machucando.
+
+Para entendermos melhor o que está em jogo para você agora: quando você pensa em ter esse contato, qual é o principal medo sobre o que aconteceria com você depois?
+
