@@ -42,3 +42,6 @@ Oi
 **Elo** _(13/08/2026, 21:44:52)_
 [NEUTRO] Olá, Oi. Como posso te ajudar hoje? O que você gostaria de explorar ou conversar neste momento?
 
+**Você** _(13/08/2026, 21:45:15)_
+Minha esposa quer fazer anal, mas eu não quero
+
