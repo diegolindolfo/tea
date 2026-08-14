@@ -14,6 +14,9 @@ Não
 **Nas últimas duas semanas, você teve pensamentos de se machucar ou de que não valeria a pena continuar?**
 Não
 
+**Como você descreveria seu humor geral nos últimos dias?**
+Neutro
+
 ---
 
 ## Conversa
@@ -29,4 +32,7 @@ Não
 
 **Você** _(13/08/2026, 21:44:46)_
 [anamnese: seguranca] Não
+
+**Você** _(13/08/2026, 21:44:48)_
+[anamnese: humor] Neutro
 
