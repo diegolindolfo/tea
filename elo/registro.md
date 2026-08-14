@@ -89,3 +89,7 @@ O processo de adaptação após um término raramente é linear. É comum passar
 
 O que você acha que contribuiu para o seu dia ter sido um pouco melhor hoje? Ter clareza do que traz essa sensação de "relativamente bem" — seja uma pausa, uma conversa, um foco no trabalho ou apenas um dia sem tantas sobrecargas — pode te ajudar a reconhecer quais pequenos recursos estão ao seu alcance neste momento.
 
+**Você** _(14/08/2026, 20:55:10)_
+
+Eu estou um pouco mais conformada e minha autoestima melhorou um pouco
+
