@@ -81,3 +81,11 @@ Como foram as coisas para você ao longo do dia? Se sentir vontade de compartilh
 
 Estou relativamente bem
 
+**Elo** _(14/08/2026, 20:53:00 · [FACT])_
+
+[FATO] É bom saber que você está conseguindo ter um momento de maior estabilidade hoje, Taynara.
+
+O processo de adaptação após um término raramente é linear. É comum passar por dias de muito cansaço e por outros onde um pouco mais de espaço e leveza surgem. 
+
+O que você acha que contribuiu para o seu dia ter sido um pouco melhor hoje? Ter clareza do que traz essa sensação de "relativamente bem" — seja uma pausa, uma conversa, um foco no trabalho ou apenas um dia sem tantas sobrecargas — pode te ajudar a reconhecer quais pequenos recursos estão ao seu alcance neste momento.
+
