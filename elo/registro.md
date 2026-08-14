@@ -20,3 +20,7 @@ Quero refletir sobre uma situação difícil que aconteceu hoje.
 
 [anamnese: motivo] Quero refletir sobre uma situação difícil que aconteceu hoje.
 
+**Você** _(14/08/2026, 12:15:53)_
+
+Pode me guiar em uma respiração 4-7-8 para me acalmar?
+
