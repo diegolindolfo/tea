@@ -11,6 +11,9 @@ um término recente
 **Você já fez acompanhamento terapêutico antes?**
 Não
 
+**Nas últimas duas semanas, você teve pensamentos de se machucar ou de que não valeria a pena continuar?**
+Não
+
 ---
 
 ## Conversa
@@ -50,4 +53,8 @@ Podemos ir no seu ritmo.
 **Você** _(14/08/2026, 10:20:07)_
 
 [anamnese: terapia_previa] Não
+
+**Você** _(14/08/2026, 10:20:09)_
+
+[anamnese: seguranca] Não
 
