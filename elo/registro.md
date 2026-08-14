@@ -45,3 +45,10 @@ Oi
 **Você** _(13/08/2026, 21:45:15)_
 Minha esposa quer fazer anal, mas eu não quero
 
+**Elo** _(13/08/2026, 21:45:19 · fact)_
+[FATO] Você mencionou que sua esposa tem o desejo de praticar sexo anal, mas que você não quer participar dessa prática.
+
+Em um relacionamento, a sexualidade funciona de forma saudável apenas quando há consentimento pleno, confortável e mútuo. Nenhuma prática sexual deve ser realizada por obrigação, pressão ou para agradar o outro se isso ultrapassa os seus próprios limites. Ter preferências diferentes e dizer "não" para algo que você não se sente confortável em fazer é um direito legítimo de cada parceiro.
+
+[NEUTRO] Como tem sido essa conversa entre vocês? Ela tem insistido, ou foi algo pontual que gerou desconforto em você? Se quiser compartilhar o que mais tem te incomodado nessa situação, podemos pensar juntos em formas de lidar com isso.
+
