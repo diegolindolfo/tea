@@ -165,3 +165,7 @@ Oi
 
 Gostaria de fazer o exercício de grounding 5-4-3-2-1.
 
+**Elo** _(13/08/2026, 21:46:11)_
+
+
+
