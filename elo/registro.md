@@ -69,3 +69,11 @@ Podemos ir no seu ritmo.
 
 oi
 
+**Elo** _(14/08/2026, 10:20:40)_
+
+[NEUTRO]
+
+Oi, Tay.
+
+Como você está agora? Se quiser compartilhar o que aconteceu hoje ou por onde prefere começar a nossa conversa, estou aqui para te ouvir.
+
