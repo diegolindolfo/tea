@@ -3,52 +3,69 @@
 ## Anamnese Inicial
 
 **Antes de começarmos: como você prefere que eu te chame?**
-Diego
+Taynara
 
 **O que te trouxe até aqui hoje?**
-Quero refletir sobre uma situação difícil que aconteceu hoje.
+Acabei de terminar um namoro de 4 anos
+
+**Você já fez acompanhamento terapêutico antes?**
+Prefiro não dizer
+
+**Nas últimas duas semanas, você teve pensamentos de se machucar ou de que não valeria a pena continuar?**
+Prefiro não dizer
+
+**Como você descreveria seu humor geral nos últimos dias?**
+Cansado
 
 ---
 
 ## Conversa
 
-**Você** _(14/08/2026, 12:15:32)_
+**Você** _(30/07/2026, 10:36:36)_
 
-[anamnese: nome] Diego
+[anamnese: nome] Taynara
 
-**Você** _(14/08/2026, 12:15:49)_
+**Você** _(30/07/2026, 10:38:05)_
 
-[anamnese: motivo] Quero refletir sobre uma situação difícil que aconteceu hoje.
+[anamnese: motivo] Acabei de terminar um namoro de 4 anos
 
-**Você** _(14/08/2026, 12:15:53)_
+**Você** _(30/07/2026, 10:38:17)_
 
-Pode me guiar em uma respiração 4-7-8 para me acalmar?
+[anamnese: terapia_previa] Prefiro não dizer
 
-**Elo** _(14/08/2026, 12:16:03)_
+**Você** _(30/07/2026, 10:38:30)_
 
-[NEUTRO] Claro. A técnica de respiração 4-7-8 é uma ferramenta baseada em evidências que ajuda a ativar o sistema nervoso parassimpático, reduzindo o estado de alerta do corpo, diminuindo a frequência cardíaca e promovendo o relaxamento.
+[anamnese: seguranca] Prefiro não dizer
 
-Encontre uma posição confortável, com o corpo relaxado e as costas apoiadas. Se se sentir à vontade, pode fechar os olhos ou manter o olhar suave fixo em um ponto à sua frente.
+**Você** _(30/07/2026, 10:38:44)_
 
-**Como fazer:**
-O ar entra silenciosamente pelo nariz e sai completamente pela boca, fazendo um som suave de sopro.
+[anamnese: humor] Cansado
 
----
+**Você** _(30/07/2026, 10:38:54)_
 
-### Passo a passo:
+Bom dia
 
-1. **Esvazie os pulmões:** Solte todo o ar pela boca.
-2. **Inspire:** Puxe o ar silenciosamente pelo nariz enquanto conta mentalmente até **4** *(1, 2, 3, 4)*.
-3. **Pause:** Segure a respiração nos pulmões contando até **7** *(1, 2, 3, 4, 5, 6, 7)*.
-4. **Expire:** Solte todo o ar pela boca de forma contínua, fazendo um som suave, contando até **8** *(1, 2, 3, 4, 5, 6, 7, 8)*.
+**Elo** _(30/07/2026, 10:39:00)_
 
----
+[NEUTRO] Bom dia, Taynara.
 
-Você pode repetir esse ciclo por mais 3 ou 4 vezes seguidas. 
+Sei que você está passando por um momento delicado com o fim de um relacionamento de quatro anos e me contou que tem se sentido bastante cansada ultimamente. É uma transição significativa, e faz sentido que isso impacte sua energia mental e física.
 
-*Nota importante:* Se sentir qualquer desconforto ou tontura ao segurar o ar por 7 segundos, reduza os tempos mantendo a proporção (por exemplo: inspire em 2, segure por 3 e expire em 4). O elemento principal da técnica é garantir que a **expiração seja mais longa que a inspiração**.
+Como você está se sentindo hoje de manhã? Se quiser, podemos usar este espaço para conversar sobre como tem sido atravessar esses últimos dias ou focar no que parecer mais urgente para você agora.
 
-Ao terminar, permita que sua respiração volte ao ritmo natural por alguns momentos. 
+**Você** _(30/07/2026, 10:39:39)_
 
-Como você está se sentindo agora?
+Eu quero voltar a me sentir bem
+
+**Elo** _(30/07/2026, 10:39:57)_
+
+[NEUTRO] É um desejo muito legítimo, Taynara. Quando passamos pelo fim de uma relação significativa, é natural buscar alívio da dor e desse cansaço que você mencionou.
+
+Na psicologia, entendemos o término de um relacionamento como um processo de adaptação e reorganização. Voltar a se sentir bem costuma ser uma construção em etapas, respeitando o tempo que o corpo e a mente precisam para processar essa mudança, em vez de algo que acontece de uma hora para outra.
+
+Para que possamos pensar em caminhos práticos, o que "se sentir bem" significa para você hoje? Por exemplo, seria conseguir ter um momento de descanso sem a sensação de cansaço pesado, diminuir a frequência dos pensamentos sobre o término, ou recuperar um pouco da sua energia diária?
+
+**Você** _(14/08/2026, 20:52:25)_
+
+Boa noite
 
