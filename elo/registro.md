@@ -11,6 +11,9 @@ terminei com meu namorado
 **Você já fez acompanhamento terapêutico antes?**
 Não
 
+**Nas últimas duas semanas, você teve pensamentos de se machucar ou de que não valeria a pena continuar?**
+Não
+
 ---
 
 ## Conversa
@@ -26,4 +29,8 @@ Não
 **Você** _(14/08/2026, 10:01:56)_
 
 [anamnese: terapia_previa] Não
+
+**Você** _(14/08/2026, 10:01:57)_
+
+[anamnese: seguranca] Não
 
