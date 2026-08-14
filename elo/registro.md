@@ -138,3 +138,7 @@ Se nenhuma dessas vias funcioná no curto prazo, a prioridade máxima passa a se
 
 Como tem sido para você gerenciar todo esse peso sozinho no dia a dia? Você tem conseguido algum momento mínimo de descanso ou algum suporte externo (como ajuda na limpeza da casa ou terapeuta para o seu filho que possa aliviar parte da logística)?
 
+**Você** _(14/08/2026, 10:11:58)_
+
+oi
+
