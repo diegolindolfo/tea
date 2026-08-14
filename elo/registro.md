@@ -41,3 +41,7 @@ Cansado
 
 [anamnese: humor] Cansado
 
+**Você** _(14/08/2026, 10:02:06)_
+
+olá
+
