@@ -161,3 +161,7 @@ Vamos fazer juntos, no seu tempo. Olhe ao seu redor de onde você está agora:
 
 Pode ir fazendo com calma. Quando terminar, me diz como está se sentindo.
 
+**Você** _(14/08/2026, 22:21:44)_
+
+Eu gosto dela. Amo, de muitas maneiras. Mas ela me deixa muito inseguro. Não me diz nada, não me deixa elogiar
+
