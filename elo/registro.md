@@ -143,3 +143,7 @@ Pode ser que essa falta de contato físico esteja alimentando ainda mais a inseg
 
 Como essa situação tem feito você se sentir em relação a ela e a você mesmo?
 
+**Você** _(14/08/2026, 22:07:56)_
+
+Gostaria de fazer o exercício de grounding 5-4-3-2-1.
+
