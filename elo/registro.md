@@ -101,3 +101,7 @@ Quero minha esposa
 
 Aconteceu alguma coisa recente entre vocês? Se quiser me contar o que está se passando, estou aqui para te ouvir.
 
+**Você** _(14/08/2026, 21:34:34)_
+
+Oi
+
