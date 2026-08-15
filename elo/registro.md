@@ -121,3 +121,7 @@ Devagar
 
 Quer me contar só como você está se sentindo agora, nesse instante?
 
+**Você** _(14/08/2026, 21:53:13)_
+
+Ela não me dá
+
