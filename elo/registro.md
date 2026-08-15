@@ -11,6 +11,9 @@ Ciúmes
 **Você já fez acompanhamento terapêutico antes?**
 Prefiro não dizer
 
+**Nas últimas duas semanas, você teve pensamentos de se machucar ou de que não valeria a pena continuar?**
+Não
+
 ---
 
 ## Conversa
@@ -66,4 +69,8 @@ Como você está se sentindo agora?
 **Você** _(14/08/2026, 21:33:29)_
 
 [anamnese: terapia_previa] Prefiro não dizer
+
+**Você** _(14/08/2026, 21:33:32)_
+
+[anamnese: seguranca] Não
 
