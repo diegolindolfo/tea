@@ -147,3 +147,17 @@ Como essa situação tem feito você se sentir em relação a ela e a você mesm
 
 Gostaria de fazer o exercício de grounding 5-4-3-2-1.
 
+**Elo** _(14/08/2026, 22:08:02)_
+
+[NEUTRO] Excelente escolha, Diego. O grounding é uma ótima forma de trazer a mente e o corpo de volta para o presente quando as emoções ficam muito intensas.
+
+Vamos fazer juntos, no seu tempo. Olhe ao seu redor de onde você está agora:
+
+1. **5 coisas que você pode ver:** Olhe em volta e note 5 objetos ou detalhes no ambiente (uma cadeira, uma sombra, uma cor, uma lâmpada...).
+2. **4 coisas que você pode tocar:** Sinta 4 sensações físicas agora (seus pés no chão, o peso do celular na mão, o contato da roupa na pele, a textura do sofá...).
+3. **3 sons que você pode ouvir:** Preste atenção e identifique 3 barulhos ao seu redor (o barulho do vento, um carro passando longe, sua própria respiração...).
+4. **2 cheiros que você pode sentir:** Tente notar 2 odores no ar (o cheiro do ambiente, de um café, da sua roupa...). Se não sentir nada, pode lembrar de 2 cheiros de que você gosta.
+5. **1 gosto que você pode sentir:** Sinta o gosto atual na sua boca ou lembre do gosto da última coisa que bebeu ou comeu.
+
+Pode ir fazendo com calma. Quando terminar, me diz como está se sentindo.
+
