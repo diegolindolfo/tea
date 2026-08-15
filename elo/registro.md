@@ -115,3 +115,9 @@ Sei que às vezes é difícil colocar em palavras tudo o que tá passando por a�
 
 Devagar
 
+**Elo** _(14/08/2026, 21:52:51)_
+
+[NEUTRO] Combinado, Diego. No seu ritmo, sem pressa alguma. 
+
+Quer me contar só como você está se sentindo agora, nesse instante?
+
