@@ -8,6 +8,9 @@ Diego
 **O que te trouxe até aqui hoje?**
 Ciúmes
 
+**Você já fez acompanhamento terapêutico antes?**
+Prefiro não dizer
+
 ---
 
 ## Conversa
@@ -59,4 +62,8 @@ Como você está se sentindo agora?
 **Você** _(14/08/2026, 21:33:03)_
 
 [anamnese: motivo] Ciúmes
+
+**Você** _(14/08/2026, 21:33:29)_
+
+[anamnese: terapia_previa] Prefiro não dizer
 
