@@ -165,3 +165,11 @@ Pode ir fazendo com calma. Quando terminar, me diz como está se sentindo.
 
 Eu gosto dela. Amo, de muitas maneiras. Mas ela me deixa muito inseguro. Não me diz nada, não me deixa elogiar
 
+**Elo** _(14/08/2026, 22:21:52 · [HYPOTHESIS])_
+
+[HIPOTESE] É muito doloroso amar alguém e sentir que existe uma barreira invisível impedindo a aproximação, Diego.
+
+Pode ser que, quando ela se cala ou recusa um elogio, a sua mente tente preencher esse silêncio com dúvidas — e é exatamente nesse espaço de incerteza que a insegurança e o ciúme ganham força. Sem o retorno dela, fica realmente difícil se sentir seguro na relação.
+
+Quando ela se fecha ou não aceita o seu carinho, o que costuma passar pela sua cabeça? E como você costuma reagir nessa hora?
+
