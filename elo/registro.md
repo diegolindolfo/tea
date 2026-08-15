@@ -81,3 +81,7 @@ Como você está se sentindo agora?
 
 [anamnese: humor] Bem
 
+**Você** _(14/08/2026, 21:33:37)_
+
+Oi
+
