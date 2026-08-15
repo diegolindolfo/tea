@@ -3,101 +3,56 @@
 ## Anamnese Inicial
 
 **Antes de começarmos: como você prefere que eu te chame?**
-Taynara
+Diego
 
 **O que te trouxe até aqui hoje?**
-Acabei de terminar um namoro de 4 anos
-
-**Você já fez acompanhamento terapêutico antes?**
-Prefiro não dizer
-
-**Nas últimas duas semanas, você teve pensamentos de se machucar ou de que não valeria a pena continuar?**
-Prefiro não dizer
-
-**Como você descreveria seu humor geral nos últimos dias?**
-Cansado
+Quero refletir sobre uma situação difícil que aconteceu hoje.
 
 ---
 
 ## Conversa
 
-**Você** _(30/07/2026, 10:36:36)_
+**Você** _(14/08/2026, 12:15:32)_
 
-[anamnese: nome] Taynara
+[anamnese: nome] Diego
 
-**Você** _(30/07/2026, 10:38:05)_
+**Você** _(14/08/2026, 12:15:49)_
 
-[anamnese: motivo] Acabei de terminar um namoro de 4 anos
+[anamnese: motivo] Quero refletir sobre uma situação difícil que aconteceu hoje.
 
-**Você** _(30/07/2026, 10:38:17)_
+**Você** _(14/08/2026, 12:15:53)_
 
-[anamnese: terapia_previa] Prefiro não dizer
+Pode me guiar em uma respiração 4-7-8 para me acalmar?
 
-**Você** _(30/07/2026, 10:38:30)_
+**Elo** _(14/08/2026, 12:16:03)_
 
-[anamnese: seguranca] Prefiro não dizer
+[NEUTRO] Claro. A técnica de respiração 4-7-8 é uma ferramenta baseada em evidências que ajuda a ativar o sistema nervoso parassimpático, reduzindo o estado de alerta do corpo, diminuindo a frequência cardíaca e promovendo o relaxamento.
 
-**Você** _(30/07/2026, 10:38:44)_
+Encontre uma posição confortável, com o corpo relaxado e as costas apoiadas. Se se sentir à vontade, pode fechar os olhos ou manter o olhar suave fixo em um ponto à sua frente.
 
-[anamnese: humor] Cansado
+**Como fazer:**
+O ar entra silenciosamente pelo nariz e sai completamente pela boca, fazendo um som suave de sopro.
 
-**Você** _(30/07/2026, 10:38:54)_
+---
 
-Bom dia
+### Passo a passo:
 
-**Elo** _(30/07/2026, 10:39:00)_
+1. **Esvazie os pulmões:** Solte todo o ar pela boca.
+2. **Inspire:** Puxe o ar silenciosamente pelo nariz enquanto conta mentalmente até **4** *(1, 2, 3, 4)*.
+3. **Pause:** Segure a respiração nos pulmões contando até **7** *(1, 2, 3, 4, 5, 6, 7)*.
+4. **Expire:** Solte todo o ar pela boca de forma contínua, fazendo um som suave, contando até **8** *(1, 2, 3, 4, 5, 6, 7, 8)*.
 
-[NEUTRO] Bom dia, Taynara.
+---
 
-Sei que você está passando por um momento delicado com o fim de um relacionamento de quatro anos e me contou que tem se sentido bastante cansada ultimamente. É uma transição significativa, e faz sentido que isso impacte sua energia mental e física.
+Você pode repetir esse ciclo por mais 3 ou 4 vezes seguidas. 
 
-Como você está se sentindo hoje de manhã? Se quiser, podemos usar este espaço para conversar sobre como tem sido atravessar esses últimos dias ou focar no que parecer mais urgente para você agora.
+*Nota importante:* Se sentir qualquer desconforto ou tontura ao segurar o ar por 7 segundos, reduza os tempos mantendo a proporção (por exemplo: inspire em 2, segure por 3 e expire em 4). O elemento principal da técnica é garantir que a **expiração seja mais longa que a inspiração**.
 
-**Você** _(30/07/2026, 10:39:39)_
+Ao terminar, permita que sua respiração volte ao ritmo natural por alguns momentos. 
 
-Eu quero voltar a me sentir bem
+Como você está se sentindo agora?
 
-**Elo** _(30/07/2026, 10:39:57)_
+**Você** _(14/08/2026, 21:32:56)_
 
-[NEUTRO] É um desejo muito legítimo, Taynara. Quando passamos pelo fim de uma relação significativa, é natural buscar alívio da dor e desse cansaço que você mencionou.
-
-Na psicologia, entendemos o término de um relacionamento como um processo de adaptação e reorganização. Voltar a se sentir bem costuma ser uma construção em etapas, respeitando o tempo que o corpo e a mente precisam para processar essa mudança, em vez de algo que acontece de uma hora para outra.
-
-Para que possamos pensar em caminhos práticos, o que "se sentir bem" significa para você hoje? Por exemplo, seria conseguir ter um momento de descanso sem a sensação de cansaço pesado, diminuir a frequência dos pensamentos sobre o término, ou recuperar um pouco da sua energia diária?
-
-**Você** _(14/08/2026, 20:52:25)_
-
-Boa noite
-
-**Elo** _(14/08/2026, 20:52:30)_
-
-[NEUTRO] Boa noite, Taynara.
-
-Espero que o seu dia tenha sido o mais leve possível, dentro do momento que você está atravessando. 
-
-Como foram as coisas para você ao longo do dia? Se sentir vontade de compartilhar, estou aqui para te ouvir — seja para falar sobre como o dia transcorreu, sobre o cansaço que você mencionou ou apenas para organizar os pensamentos antes de descansar.
-
-**Você** _(14/08/2026, 20:52:52)_
-
-Estou relativamente bem
-
-**Elo** _(14/08/2026, 20:53:00 · [FACT])_
-
-[FATO] É bom saber que você está conseguindo ter um momento de maior estabilidade hoje, Taynara.
-
-O processo de adaptação após um término raramente é linear. É comum passar por dias de muito cansaço e por outros onde um pouco mais de espaço e leveza surgem. 
-
-O que você acha que contribuiu para o seu dia ter sido um pouco melhor hoje? Ter clareza do que traz essa sensação de "relativamente bem" — seja uma pausa, uma conversa, um foco no trabalho ou apenas um dia sem tantas sobrecargas — pode te ajudar a reconhecer quais pequenos recursos estão ao seu alcance neste momento.
-
-**Você** _(14/08/2026, 20:55:10)_
-
-Eu estou um pouco mais conformada e minha autoestima melhorou um pouco
-
-**Elo** _(14/08/2026, 20:55:14 · [HYPOTHESIS])_
-
-[HIPOTESE] Esse é um movimento importante, Taynara. 
-
-Uma possibilidade a considerar é que, quando começamos a nos conformar com o fim de um ciclo — o que na psicologia chamamos de aceitação da realidade —, paramos de gastar tanta energia lutando contra o que aconteceu. Essa redução no desgaste emocional muitas vezes abre espaço para que o foco volte para você mesma, o que costuma impactar positivamente a percepção do próprio valor e a autoestima.
-
-O que você percebe que mudou na forma como está lidando com a situação ou no seu olhar sobre si mesma para que essa melhora começasse a acontecer? Houve alguma reflexão ou atitude sua que te ajudou a dar esse passo?
+[anamnese: nome] Diego
 
