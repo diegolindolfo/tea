@@ -91,3 +91,7 @@ Oi
 
 Como você está se sentindo agora? Deu certo testar a respiração ou prefere conversar sobre o que está se passando?
 
+**Você** _(14/08/2026, 21:33:54)_
+
+Quero minha esposa
+
