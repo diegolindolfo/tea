@@ -85,3 +85,9 @@ Como você está se sentindo agora?
 
 Oi
 
+**Elo** _(14/08/2026, 21:33:41)_
+
+[NEUTRO] Oi, Diego. Tudo bem? 
+
+Como você está se sentindo agora? Deu certo testar a respiração ou prefere conversar sobre o que está se passando?
+
