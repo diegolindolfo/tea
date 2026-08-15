@@ -95,3 +95,9 @@ Como você está se sentindo agora? Deu certo testar a respiração ou prefere c
 
 Quero minha esposa
 
+**Elo** _(14/08/2026, 21:33:59 · [FACT])_
+
+[FATO] Dá para sentir o peso do que você está sentindo agora, Diego. O quanto você quer estar perto dela nesse momento.
+
+Aconteceu alguma coisa recente entre vocês? Se quiser me contar o que está se passando, estou aqui para te ouvir.
+
