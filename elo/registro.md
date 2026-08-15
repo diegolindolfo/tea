@@ -105,3 +105,9 @@ Aconteceu alguma coisa recente entre vocês? Se quiser me contar o que está se 
 
 Oi
 
+**Elo** _(14/08/2026, 21:34:39)_
+
+[NEUTRO] Oi, Diego. Tô por aqui. 
+
+Sei que às vezes é difícil colocar em palavras tudo o que tá passando por aí. Quer tentar me contar no seu tempo o que aconteceu, ou prefere ir bem devagar?
+
