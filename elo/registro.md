@@ -135,3 +135,11 @@ Como combinamos de ir no seu tempo: do que exatamente você sente que não está
 
 A buceta, ela não dá
 
+**Elo** _(14/08/2026, 21:53:51 · [FACT])_
+
+[FATO] A falta de intimidade e de sexo no casamento é algo que costuma gerar muita frustração, distanciamento e uma sensação dura de rejeição, Diego.
+
+Pode ser que essa falta de contato físico esteja alimentando ainda mais a insegurança ou a sensação de que algo entre vocês está se perdendo. 
+
+Como essa situação tem feito você se sentir em relação a ela e a você mesmo?
+
