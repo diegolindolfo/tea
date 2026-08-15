@@ -131,3 +131,7 @@ Ela não me dá
 
 Como combinamos de ir no seu tempo: do que exatamente você sente que não está recebendo dela agora? Pode ser atenção, conversa, afeto, transparência... o que vem à sua cabeça?
 
+**Você** _(14/08/2026, 21:53:45)_
+
+A buceta, ela não dá
+
