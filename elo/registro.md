@@ -125,3 +125,9 @@ Quer me contar só como você está se sentindo agora, nesse instante?
 
 Ela não me dá
 
+**Elo** _(14/08/2026, 21:53:19 · [FACT])_
+
+[FATO] Entendo, Diego. Sentir que você não está recebendo o que precisa da sua esposa pode ser muito difícil e frustrante.
+
+Como combinamos de ir no seu tempo: do que exatamente você sente que não está recebendo dela agora? Pode ser atenção, conversa, afeto, transparência... o que vem à sua cabeça?
+
