@@ -111,3 +111,7 @@ Oi
 
 Sei que às vezes é difícil colocar em palavras tudo o que tá passando por aí. Quer tentar me contar no seu tempo o que aconteceu, ou prefere ir bem devagar?
 
+**Você** _(14/08/2026, 21:52:46)_
+
+Devagar
+
