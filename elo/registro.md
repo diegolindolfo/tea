@@ -166,3 +166,11 @@ Como está o seu dia hoje por aí? Conseguindo dar conta das coisas ou o cansaç
 
 OI
 
+**Elo** _(26/08/2026, 15:19:02)_
+
+[NEUTRO] Oi, Diego. Continuo por aqui.
+
+Percebo que você está tentando manter o contato, mas imagino que a energia esteja bem baixa por aí. Não precisa ter pressa nem se esforçar para formular respostas longas.
+
+Como você está se sentindo exatamente agora? Quer desabafar sobre algo do dia ou prefere ir no seu tempo?
+
