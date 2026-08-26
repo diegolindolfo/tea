@@ -197,3 +197,11 @@ Quer continuar do ponto em que estávamos falando, ou prefere dar uma pausa por 
 
 Sim
 
+**Elo** _(26/08/2026, 15:22:05)_
+
+[NEUTRO] Combinado, Diego. Vamos no nosso ritmo.
+
+A gente estava falando sobre como é difícil amar ela e, ao mesmo tempo, sentir que existe essa distância — quando ela não diz nada ou não aceita o seu elogio.
+
+Quando isso acontece e a insegurança bate, o que você costuma fazer? Você tenta se aproximar para conversar, acaba guardando para você, ou reage de outra forma?
+
