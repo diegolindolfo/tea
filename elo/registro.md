@@ -177,3 +177,9 @@ Quando ela se fecha ou não aceita o seu carinho, o que costuma passar pela sua 
 
 Oi
 
+**Elo** _(26/08/2026, 15:19:33)_
+
+[NEUTRO] Oi, Diego. Continuo por aqui com você.
+
+Ficou pesado pensar sobre isso que você me contou, ou prefere ir conversando aos poucos, no seu ritmo?
+
