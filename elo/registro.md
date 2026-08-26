@@ -3,192 +3,197 @@
 ## Anamnese Inicial
 
 **Antes de começarmos: como você prefere que eu te chame?**
-diego
+Diego
 
 **O que te trouxe até aqui hoje?**
-problemas de comunicação com a minha esposa
+Ciúmes
 
 **Você já fez acompanhamento terapêutico antes?**
-Não
+Prefiro não dizer
 
 **Nas últimas duas semanas, você teve pensamentos de se machucar ou de que não valeria a pena continuar?**
 Não
 
 **Como você descreveria seu humor geral nos últimos dias?**
-Cansado
+Bem
 
 ---
 
 ## Conversa
 
-**Você** _(03/08/2026, 09:08:31)_
+**Você** _(14/08/2026, 12:15:32)_
 
-[anamnese: nome] diego
+[anamnese: nome] Diego
 
-**Você** _(03/08/2026, 09:08:42)_
+**Você** _(14/08/2026, 12:15:49)_
 
-[anamnese: motivo] problemas de comunicação com a minha esposa
+[anamnese: motivo] Quero refletir sobre uma situação difícil que aconteceu hoje.
 
-**Você** _(03/08/2026, 09:08:45)_
+**Você** _(14/08/2026, 12:15:53)_
 
-[anamnese: terapia_previa] Não
+Pode me guiar em uma respiração 4-7-8 para me acalmar?
 
-**Você** _(03/08/2026, 09:08:47)_
+**Elo** _(14/08/2026, 12:16:03)_
+
+[NEUTRO] Claro. A técnica de respiração 4-7-8 é uma ferramenta baseada em evidências que ajuda a ativar o sistema nervoso parassimpático, reduzindo o estado de alerta do corpo, diminuindo a frequência cardíaca e promovendo o relaxamento.
+
+Encontre uma posição confortável, com o corpo relaxado e as costas apoiadas. Se se sentir à vontade, pode fechar os olhos ou manter o olhar suave fixo em um ponto à sua frente.
+
+**Como fazer:**
+O ar entra silenciosamente pelo nariz e sai completamente pela boca, fazendo um som suave de sopro.
+
+---
+
+### Passo a passo:
+
+1. **Esvazie os pulmões:** Solte todo o ar pela boca.
+2. **Inspire:** Puxe o ar silenciosamente pelo nariz enquanto conta mentalmente até **4** *(1, 2, 3, 4)*.
+3. **Pause:** Segure a respiração nos pulmões contando até **7** *(1, 2, 3, 4, 5, 6, 7)*.
+4. **Expire:** Solte todo o ar pela boca de forma contínua, fazendo um som suave, contando até **8** *(1, 2, 3, 4, 5, 6, 7, 8)*.
+
+---
+
+Você pode repetir esse ciclo por mais 3 ou 4 vezes seguidas. 
+
+*Nota importante:* Se sentir qualquer desconforto ou tontura ao segurar o ar por 7 segundos, reduza os tempos mantendo a proporção (por exemplo: inspire em 2, segure por 3 e expire em 4). O elemento principal da técnica é garantir que a **expiração seja mais longa que a inspiração**.
+
+Ao terminar, permita que sua respiração volte ao ritmo natural por alguns momentos. 
+
+Como você está se sentindo agora?
+
+**Você** _(14/08/2026, 21:32:56)_
+
+[anamnese: nome] Diego
+
+**Você** _(14/08/2026, 21:33:03)_
+
+[anamnese: motivo] Ciúmes
+
+**Você** _(14/08/2026, 21:33:29)_
+
+[anamnese: terapia_previa] Prefiro não dizer
+
+**Você** _(14/08/2026, 21:33:32)_
 
 [anamnese: seguranca] Não
 
-**Você** _(03/08/2026, 09:08:50)_
+**Você** _(14/08/2026, 21:33:34)_
 
-[anamnese: humor] Cansado
+[anamnese: humor] Bem
 
-**Você** _(03/08/2026, 09:09:06)_
+**Você** _(14/08/2026, 21:33:37)_
 
-eu não consigo me comunicar com a minha esposa
+Oi
 
-**Elo** _(03/08/2026, 09:09:14)_
+**Elo** _(14/08/2026, 21:33:41)_
 
-[NEUTRO] Olá, Diego. Problemas de comunicação no casamento costumam gerar um desgaste emocional grande e podem colaborar diretamente para esse sentimento de cansaço que você descreveu.
+[NEUTRO] Oi, Diego. Tudo bem? 
 
-Como a comunicação pode falhar de várias formas diferentes, preciso entender melhor o que acontece no caso de vocês. 
+Como você está se sentindo agora? Deu certo testar a respiração ou prefere conversar sobre o que está se passando?
 
-Quando você tenta se comunicar com a sua esposa, o que costuma acontecer? Por exemplo: as conversas viram discussões com frequência, um de vocês se afasta e prefere o silêncio, ou vocês sentem que conversam, mas não conseguem se entender?
+**Você** _(14/08/2026, 21:33:54)_
 
-**Você** _(03/08/2026, 09:10:41)_
+Quero minha esposa
 
-ela ignora, não conversa sobre nada, fica sozinha quando pode e se eu não busco, ela não fala sobre nada
+**Elo** _(14/08/2026, 21:33:59 · [FACT])_
 
-**Elo** _(03/08/2026, 09:10:49 · [HYPOTHESIS])_
+[FATO] Dá para sentir o peso do que você está sentindo agora, Diego. O quanto você quer estar perto dela nesse momento.
 
-[HIPOTESE] Uma hipótese é que vocês estejam vivenciando um padrão muito comum em relacionamentos, frequentemente chamado de ciclo de "busca e esquiva" (ou demanda e distanciamento). Nesse ciclo, quanto mais uma pessoa tenta puxar o diálogo para resolver algo ou buscar contato, mais a outra se sente sobrecarregada, sem recursos emocionais ou ameaçada, e acaba se isolando defensivamente para se proteger do estresse.
+Aconteceu alguma coisa recente entre vocês? Se quiser me contar o que está se passando, estou aqui para te ouvir.
 
-Entendo o quanto deve ser exaustivo sentir que a responsabilidade de manter a ponte entre vocês está inteiramente nos seus ombros, o que explica em parte o cansaço que você relatou.
+**Você** _(14/08/2026, 21:34:34)_
 
-Para podermos entender melhor como esse ciclo funciona na prática: quando você toma a iniciativa de ir até ela para conversar, como costuma ser a sua abordagem? E essa atitude de isolamento por parte dela é algo recente ou já vem acontecendo há bastante tempo?
+Oi
 
-**Você** _(03/08/2026, 09:14:46)_
+**Elo** _(14/08/2026, 21:34:39)_
 
-eu digo, oi amor, faz uma semana que não ficamos juntos, quer assitir algo hoje, ou sair, ou conversar. Eu nem falo mais em sexo pq ela sempre diz não ou não responde, e mesmoa ssim ela diz, estou cansada, hoje não, só quero ficar quietinha
+[NEUTRO] Oi, Diego. Tô por aqui. 
 
-**Elo** _(03/08/2026, 09:14:54 · [HYPOTHESIS])_
+Sei que às vezes é difícil colocar em palavras tudo o que tá passando por aí. Quer tentar me contar no seu tempo o que aconteceu, ou prefere ir bem devagar?
 
-[HIPOTESE] A partir do que você descreve, é possível perceber que a sua abordagem busca ser afetuosa e sem cobranças diretas — você inclusive recuou no tema do sexo para diminuir a pressão —, mas ainda assim a resposta dela é a recusa e o isolamento. O acúmulo dessa rejeição contínua costuma gerar uma sensação muito dolorosa de solidão dentro do próprio casamento.
+**Você** _(14/08/2026, 21:52:46)_
 
-Uma possibilidade é que esse "estar cansada" e a busca constante por se isolar sejam reflexos de uma sobrecarga emocional ou física significativa da parte dela. Quando uma pessoa está em um estado de exaustão profunda (seja por estresse, sobrecarga na rotina, problemas de saúde mental ou esgotamento emocional), até mesmo convites simples para assistir a um filme podem ser percebidos, internamente, como mais uma tarefa ou demanda social para a qual ela sente que não tem energia.
+Devagar
 
-Isso não significa que a situação seja fácil para você, mas ajuda a olhar para a resposta dela não como um ataque pessoal, e sim como um sinal de esgotamento.
+**Elo** _(14/08/2026, 21:52:51)_
 
-Para termos uma visão mais clara do quadro: há quanto tempo você percebe essa postura de cansaço e isolamento nela? E fora a vida a dois, como está a rotina dela em relação a trabalho, responsabilidades do dia a dia ou saúde?
+[NEUTRO] Combinado, Diego. No seu ritmo, sem pressa alguma. 
 
-**Você** _(03/08/2026, 09:18:09)_
+Quer me contar só como você está se sentindo agora, nesse instante?
 
-ela não tem uma vida muito animada. temos dois filhos, uma bebe de 6 meses e um rapaz de 7a nos, autista. a rotina, eu que cuido, escola do mais velho, finanças, comida, compras, terapias do mais velho, tarefas domésticas. ela amamenta, come, me entrega a bebe quando chego do trabalho e corre para o quarto, tranca a porta e só abre quando a bebe quer comer. O único compromisso dela é quando a bebe tem vacina, e o banho da bebe
+**Você** _(14/08/2026, 21:53:13)_
 
-**Elo** _(03/08/2026, 09:18:24 · [HYPOTHESIS])_
+Ela não me dá
 
-[HIPOTESE] Diante dessas informações, a leitura dessa situação muda bastante de figura. A rotina da família de vocês tem uma carga de exigência altíssima — um filho de 7 anos no espectro autista demanda atenção e coordenação constantes, e vocês têm um bebê de 6 meses. Somado a isso, você está sustentando quase a totalidade do trabalho operacional, financeiro e doméstico da casa, o que explica a exaustão física e mental que você relatou no início.
+**Elo** _(14/08/2026, 21:53:19 · [FACT])_
 
-Com um bebê de 6 meses e esse padrão de comportamento (isolar-se no quarto com a porta trancada, limitar-se ao mínimo funcional para a amamentação e banho, e afastar-se do convívio), a hipótese clínica mais relevante a ser considerada é a presença de um quadro de **Depressão Pós-Parto (DPP)** ou um esgotamento perinatal grave.
+[FATO] Entendo, Diego. Sentir que você não está recebendo o que precisa da sua esposa pode ser muito difícil e frustrante.
 
-Nesses quadros, a anhedonia (perda da capacidade de sentir prazer), a fadiga extrema e o recolhimento não são escolhas ou "falta de interesse" na relação, mas sim sintomas de um sofrimento psíquico profundo. A pessoa muitas vezes se isola por não ter recursos emocionais nem para interagir.
+Como combinamos de ir no seu tempo: do que exatamente você sente que não está recebendo dela agora? Pode ser atenção, conversa, afeto, transparência... o que vem à sua cabeça?
 
-Quando a causa de fundo é o adoecimento mental, tentativas de comunicação focadas no casal (como convites para assistir algo ou sair) tendem a não funcionar, pois a pessoa percebe qualquer interação como uma demanda superior às forças que ela possui no momento.
+**Você** _(14/08/2026, 21:53:45)_
 
-Neste cenário, o caminho recomendado pela literatura é redirecionar o foco: em vez de tentar resolver a comunicação do casal agora, a prioridade passa a ser **avaliação e suporte de saúde mental para ela**, além de apoio para você, que está sobrecarregado.
+A buceta, ela não dá
 
-Uma abordagem útil seria mudar o tom da conversa para uma postura de cuidado com a saúde dela, sem cobranças. Por exemplo:
-*"Percebo que desde que nosso bebê nasceu você tem ficado muito isolada e cansada. Estou preocupado com a sua saúde e com o que você está sentindo. Quero te ajudar a passar por isso. O que acha de agendarmos uma consulta com um profissional de saúde para avaliar como você está?"*
+**Elo** _(14/08/2026, 21:53:51 · [FACT])_
 
-Como você avalia a possibilidade de ela aceitar uma conversa focada na saúde mental dela? E ela tem feito algum acompanhamento médico de rotina (como consulta ginecológica ou pediátrica) desde o parto?
+[FATO] A falta de intimidade e de sexo no casamento é algo que costuma gerar muita frustração, distanciamento e uma sensação dura de rejeição, Diego.
 
-**Você** _(03/08/2026, 09:21:45)_
+Pode ser que essa falta de contato físico esteja alimentando ainda mais a insegurança ou a sensação de que algo entre vocês está se perdendo. 
 
-ela não aceita, já tentei
+Como essa situação tem feito você se sentir em relação a ela e a você mesmo?
 
-**Elo** _(03/08/2026, 09:21:58 · [HYPOTHESIS])_
+**Você** _(14/08/2026, 22:07:56)_
 
-[HIPOTESE] A recusa em buscar ajuda é um obstáculo muito comum e profundamente desgastante em quadros depressivos graves, especialmente no pós-parto. Muitas vezes, a pessoa nega ajuda não por teimosia, mas por sentimentos intensos de culpa, medo de ser julgada como "uma mãe que não está dando conta", ou simplesmente porque a própria depressão consome a energia e a clareza necessárias para iniciar um tratamento.
+Gostaria de fazer o exercício de grounding 5-4-3-2-1.
 
-Enquanto isso, você fica em uma posição quase insustentável: sustentando a casa, as finanças, os cuidados com as duas crianças (incluindo as demandas específicas do seu filho autista) e ainda lidando com a rejeição e com a sua própria exaustão. 
+**Elo** _(14/08/2026, 22:08:02)_
 
-Quando a pessoa recusa o cuidado direto, a literatura em terapia familiar e de casal sugere mudar a estratégia, saindo do confronto direto e buscando rotas indiretas de suporte:
+[NEUTRO] Excelente escolha, Diego. O grounding é uma ótima forma de trazer a mente e o corpo de volta para o presente quando as emoções ficam muito intensas.
 
-1. **Aproveitar consultas médicas que já acontecem:** Como ela ainda se encarrega dos compromissos da bebê (vacinas, pediatra), você pode entrar em contato previamente com o pediatra ou com o obstetra dela. Explique em detalhes ao médico o isolamento contínuo, a falta de energia e a mudança de comportamento que você observa. Médicos dessas áreas são treinados para rastrear depressão pós-parto e podem fazer essa intervenção de forma técnica na próxima consulta.
-2. **Redirecionar a abordagem para a saúde física:** Em vez de falar em "psicólogo" ou "depressão" (que podem soar como ameaça ou diagnóstico), propor um check-up médico geral com um clínico ou ginecologista para investigar causas físicas do cansaço extremo, como alterações hormonais, tireoide ou deficiências vitamínicas graves — muito comuns após a gestação e amamentação. A resistência a exames de sangue costuma ser menor.
-3. **Acionar rede de apoio externa:** Existe alguma pessoa de extrema confiança dela — uma mãe, irmã ou amiga próxima — que você possa contactar reservadamente para alertar sobre o estado de saúde dela e pedir ajuda na intervenção?
-4. **Proteger a sua própria saúde mental:** Você está carregando um peso desproporcional. Se você adoecer por esgotamento, a estrutura familiar fica comprometida. Considerar terapia individual para você, neste momento, não é um luxo, mas uma medida de suporte necessária para que você tenha um espaço seguro de escuta e consiga manejar esse período crítico.
+Vamos fazer juntos, no seu tempo. Olhe ao seu redor de onde você está agora:
 
-Você acha viável entrar em contato com o médico da bebê ou com algum familiar de confiança dela para começar a mover essa situação?
+1. **5 coisas que você pode ver:** Olhe em volta e note 5 objetos ou detalhes no ambiente (uma cadeira, uma sombra, uma cor, uma lâmpada...).
+2. **4 coisas que você pode tocar:** Sinta 4 sensações físicas agora (seus pés no chão, o peso do celular na mão, o contato da roupa na pele, a textura do sofá...).
+3. **3 sons que você pode ouvir:** Preste atenção e identifique 3 barulhos ao seu redor (o barulho do vento, um carro passando longe, sua própria respiração...).
+4. **2 cheiros que você pode sentir:** Tente notar 2 odores no ar (o cheiro do ambiente, de um café, da sua roupa...). Se não sentir nada, pode lembrar de 2 cheiros de que você gosta.
+5. **1 gosto que você pode sentir:** Sinta o gosto atual na sua boca ou lembre do gosto da última coisa que bebeu ou comeu.
 
-**Você** _(03/08/2026, 09:26:46)_
+Pode ir fazendo com calma. Quando terminar, me diz como está se sentindo.
 
-a família dela não é uma opção
+**Você** _(14/08/2026, 22:21:44)_
 
-**Elo** _(03/08/2026, 09:26:49 · [FACT])_
+Eu gosto dela. Amo, de muitas maneiras. Mas ela me deixa muito inseguro. Não me diz nada, não me deixa elogiar
 
-[FATO] Entendido. A família dela não é uma alternativa viável para este momento, o que significa que precisamos focar apenas nos recursos que estão ao seu alcance e sob o seu controle.
+**Elo** _(14/08/2026, 22:21:52 · [HYPOTHESIS])_
 
-[HIPOTESE] Com essa porta fechada, a dependência do seu suporte fica ainda maior, assim como a necessidade de usarmos a via de cuidados de saúde que já está ativa na rotina de vocês.
+[HIPOTESE] É muito doloroso amar alguém e sentir que existe uma barreira invisível impedindo a aproximação, Diego.
 
-Considerando que a única saída de casa que ela faz é para compromissos da bebê (como vacinas e consultas):
+Pode ser que, quando ela se cala ou recusa um elogio, a sua mente tente preencher esse silêncio com dúvidas — e é exatamente nesse espaço de incerteza que a insegurança e o ciúme ganham força. Sem o retorno dela, fica realmente difícil se sentir seguro na relação.
 
-1. **A via do Pediatra:** Na próxima consulta da bebê, você pode ir junto ou enviar uma mensagem antecipada para o médico relatando o comportamento isolado e a fadiga extrema dela. Pediatras frequentemente fazem a ponte para encaminhar mães em sofrimento perinatal.
-2. **Consultas de rotina dela:** Ela tem o acompanhamento do obstetra que fez o parto? Se sim, essa também é uma via possível para relatar o quadro.
+Quando ela se fecha ou não aceita o seu carinho, o que costuma passar pela sua cabeça? E como você costuma reagir nessa hora?
 
-Se nenhuma dessas vias funcioná no curto prazo, a prioridade máxima passa a ser conter a **sua** sobrecarga. O acúmulo das tarefas da casa, das terapias do seu filho mais velho, do trabalho e do isolamento do casal coloca você em risco direto de um esgotamento severo (*burnout* parental/cuidador).
+**Você** _(26/08/2026, 15:19:19)_
 
-Como tem sido para você gerenciar todo esse peso sozinho no dia a dia? Você tem conseguido algum momento mínimo de descanso ou algum suporte externo (como ajuda na limpeza da casa ou terapeuta para o seu filho que possa aliviar parte da logística)?
+Oi
 
-**Você** _(14/08/2026, 10:11:58)_
+**Elo** _(26/08/2026, 15:19:33)_
 
-oi
+[NEUTRO] Oi, Diego. Continuo por aqui com você.
 
-**Elo** _(14/08/2026, 10:12:03)_
+Ficou pesado pensar sobre isso que você me contou, ou prefere ir conversando aos poucos, no seu ritmo?
 
-[NEUTRO] Oi, Diego. Estou por aqui. 
+**Você** _(26/08/2026, 15:20:10)_
 
-Estávamos falando sobre o peso que você vem sustentando sozinho na rotina com as crianças e a casa, e sobre como tentar viabilizar uma ajuda médica para a sua esposa diante desse isolamento.
+Ovo
 
-Como você está agora? Se quiser continuar de onde paramos ou falar sobre o que está passando pela sua cabeça neste momento, fique à vontade.
+**Elo** _(26/08/2026, 15:20:44)_
 
-**Você** _(14/08/2026, 10:25:39)_
+[NEUTRO] Acho que o corretor deu uma atrapalhada ou saiu sem querer, Diego.
 
-e aí
+Quer continuar do ponto em que estávamos falando, ou prefere dar uma pausa por agora?
 
-**Elo** _(14/08/2026, 10:26:25)_
+**Você** _(26/08/2026, 15:21:24)_
 
-[NEUTRO] E aí, Diego. Estou por aqui. 
-
-Imagino que até para parar e conversar por aqui seja preciso gastar uma energia que você quase não tem no momento. 
-
-Como está o seu dia hoje por aí? Conseguindo dar conta das coisas ou o cansaço pesou mais?
-
-**Você** _(26/08/2026, 15:18:15)_
-
-OI
-
-**Elo** _(26/08/2026, 15:19:02)_
-
-[NEUTRO] Oi, Diego. Continuo por aqui.
-
-Percebo que você está tentando manter o contato, mas imagino que a energia esteja bem baixa por aí. Não precisa ter pressa nem se esforçar para formular respostas longas.
-
-Como você está se sentindo exatamente agora? Quer desabafar sobre algo do dia ou prefere ir no seu tempo?
-
-**Você** _(26/08/2026, 15:19:51)_
-
-COMPRAR BOLAACHAR
-
-**Elo** _(26/08/2026, 15:20:26)_
-
-[NEUTRO] Desculpe, não consegui responder no momento: NetworkError when attempting to fetch resource.
-
-**Você** _(26/08/2026, 15:20:34)_
-
-OVOOVO
-
-**Elo** _(26/08/2026, 15:21:19)_
-
-[NEUTRO] Oi, Diego. Chegou essa mensagem diferente por aqui ("OVOOVO"). Está tudo bem?
-
-Não sei se uma das crianças pegou o seu celular ou se acabou digitando sem querer. Se estiver por perto e quiser continuar conversando no seu tempo, estou por aqui.
+Sim
 
