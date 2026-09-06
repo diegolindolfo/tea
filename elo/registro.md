@@ -205,3 +205,7 @@ A gente estava falando sobre como é difícil amar ela e, ao mesmo tempo, sentir
 
 Quando isso acontece e a insegurança bate, o que você costuma fazer? Você tenta se aproximar para conversar, acaba guardando para você, ou reage de outra forma?
 
+**Você** _(06/09/2026, 12:09:17)_
+
+Olá
+
