@@ -209,3 +209,9 @@ Quando isso acontece e a insegurança bate, o que você costuma fazer? Você ten
 
 Olá
 
+**Elo** _(06/09/2026, 12:09:19)_
+
+[NEUTRO] Olá, Diego. Tô por aqui.
+
+Como você está se sentindo agora? Se quiser continuar de onde paramos, estamos no seu ritmo. Se preferir falar de outra coisa ou só fazer uma pausa, você que manda.
+
