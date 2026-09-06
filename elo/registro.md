@@ -219,3 +219,13 @@ Como você está se sentindo agora? Se quiser continuar de onde paramos, estamos
 
 O que sabe sobre mim
 
+**Elo** _(06/09/2026, 12:10:08 · [FACT])_
+
+[FATO] Sei pouca coisa, Diego — apenas o que você mesmo compartilhou aqui comigo.
+
+Sei que seu nome é Diego, que você procurou a gente para conversar sobre ciúmes e que ama muito sua esposa. Nas nossas trocas de hoje, você me contou que se sente inseguro na relação por conta do silêncio dela, da falta de intimidade e da dificuldade que ela tem em aceitar seus elogios. Também sei que fizemos juntos o exercício de respiração e o grounding para te ajudar a se acalmar.
+
+Além disso, sei pelas perguntas iniciais do app que você não teve pensamentos de se machucar recentemente. 
+
+É apenas isso. Você é quem escolhe o que quer ou não me contar. Como está sendo para você essa conversa até agora?
+
