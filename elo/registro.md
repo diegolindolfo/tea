@@ -229,3 +229,7 @@ Além disso, sei pelas perguntas iniciais do app que você não teve pensamentos
 
 É apenas isso. Você é quem escolhe o que quer ou não me contar. Como está sendo para você essa conversa até agora?
 
+**Você** _(06/09/2026, 12:10:32)_
+
+Que ciúmes?
+
