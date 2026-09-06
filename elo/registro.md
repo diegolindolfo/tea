@@ -233,3 +233,9 @@ Além disso, sei pelas perguntas iniciais do app que você não teve pensamentos
 
 Que ciúmes?
 
+**Elo** _(06/09/2026, 12:10:35 · [FACT])_
+
+[FATO] Foi a opção que você marcou no início, nas perguntinhas de cadastro do app antes de a gente começar a conversar.
+
+Mas se você sente que essa palavra não representa o que está acontecendo, não tem problema nenhum. Como você descreveria melhor o que está sentindo nessa situação com a sua esposa?
+
