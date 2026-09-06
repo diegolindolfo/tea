@@ -215,3 +215,7 @@ Olá
 
 Como você está se sentindo agora? Se quiser continuar de onde paramos, estamos no seu ritmo. Se preferir falar de outra coisa ou só fazer uma pausa, você que manda.
 
+**Você** _(06/09/2026, 12:09:30)_
+
+O que sabe sobre mim
+
