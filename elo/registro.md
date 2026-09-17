@@ -129,3 +129,13 @@ Tenta agora
 
 Novamente
 
+**Elo** _(17/09/2026, 12:53:47)_
+
+[NEUTRO] Que bom que você decidiu falar comigo em vez de agir pelo impulso do desespero, Diego. Estar aí sozinho, sem conseguir conversar com seu irmão do jeito que precisava, torna tudo ainda mais solitário e pesado. 
+
+O fato de ela ter sugerido que você procurasse alguém de confiança — mesmo que o seu irmão não tenha conseguido te apoiar da forma que você esperava — mostra que ela também reconhece o peso disso e sabe que você está carregando algo muito difícil sozinho.
+
+Você está sentindo o peso do que vai encontrar quando voltar para casa, sem saber se a porta vai estar aberta ou fechada para vocês conversarem. Esse "não saber" é uma das coisas que mais torturam a mente.
+
+Neste momento em que a cabeça está a mil por hora, o que você acha que seria mais útil para te ajudar a atravessar as próximas horas até você conseguir focar um pouco em si mesmo e descansar?
+
