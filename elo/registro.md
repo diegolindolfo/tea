@@ -69,3 +69,7 @@ Pelo que você contou, existia uma ligação próxima com a sua cunhada que acab
 
 Para que eu possa entender melhor o cenário: como foi essa conversa quando a sua esposa descobriu? E, olhando com sinceridade para o que você sentia e cobrava da sua cunhada, o que você acha que buscava manter ali?
 
+**Você** _(17/09/2026, 12:39:21)_
+
+Eu buscava manter um contato, minha esposa é muito distante. Quando eu dizia que estava carente, que queria conversar, passar mais tempo junto, ela dizia que no momento não podia oferecer o que eu queria. Minha cunhada era adolescente, gostava de videogame, filmes, meu filho é autista, não mantém uma relação de amizade comigo. Ela ocupou dois espaços. Minha esposa não entende que eu não era apaixonado pela minha cunhada, nunca foi nem uma ideia que passou pela minha cabeça. Passei do ponto, com certeza, ao insistir em uma amizade, mas nada além disso
+
