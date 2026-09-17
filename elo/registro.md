@@ -8,6 +8,9 @@ Diego
 **O que te trouxe até aqui hoje?**
 Minha esposa quer separar
 
+**Você já fez acompanhamento terapêutico antes?**
+Não
+
 ---
 
 ## Conversa
@@ -19,4 +22,8 @@ Minha esposa quer separar
 **Você** _(17/09/2026, 12:31:02)_
 
 [anamnese: motivo] Minha esposa quer separar
+
+**Você** _(17/09/2026, 12:31:05)_
+
+[anamnese: terapia_previa] Não
 
