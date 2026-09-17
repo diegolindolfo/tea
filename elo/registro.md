@@ -143,3 +143,18 @@ Neste momento em que a cabeça está a mil por hora, o que você acha que seria 
 
 Não sei. Me diz você
 
+**Elo** _(17/09/2026, 12:55:11)_
+
+[NEUTRO] Quando o desespero e o medo tomam conta, o corpo entra em um estado de alerta tão alto que o pensamento lógico simplesmente desliga. É por isso que parece impossível saber o que fazer agora.
+
+Podemos fazer algo bem simples e prático para baixar um pouco essa adrenalina no seu corpo, antes de qualquer outra coisa. 
+
+Tente fazer o seguinte agora, aí onde você está:
+1. Solte os ombros e apoie os pés firmemente no chão.
+2. Puxe o ar bem devagar pelo nariz, contando até quatro.
+3. Solte o ar pela boca bem devagar, como se estivesse soprando a chama de uma vela, contando até seis.
+
+Faça isso umas três ou quatro vezes. 
+
+Depois que terminar, me diga: a respiração ajudou a diminuir um pouco esse nó no peito, ou a mente continua disparada pensando no retorno para casa?
+
