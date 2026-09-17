@@ -83,3 +83,7 @@ Na perspectiva dela, o marido foi buscar uma intimidade emocional, uma cumplicid
 
 Você reconhece com clareza que passou do ponto ao insistir. Hoje, como você enxerga a reação da sua esposa: você acha que ela está reagindo apenas à ideia de uma traição tradicional, ou há uma mágoa maior sobre o segredo e o lugar que a irmã dela passou a ocupar?
 
+**Você** _(17/09/2026, 12:42:38)_
+
+Magoa maior. Ela acha que eu sou um monstro que tinha interesse na irmã dela. Não é verdade. Ela disse que queria terminar, tirou a aliança. Fui dormir no quarto do meu filho. Mas ela me chamou, não queria dormir sozinha. Ela dormiu no meu peito. No outro dia, continuou não querendo falar ou chegar perto de mim, com a ideia da separação.
+
