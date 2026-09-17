@@ -41,3 +41,7 @@ Tenso
 
 [anamnese: humor] Tenso
 
+**Você** _(17/09/2026, 12:32:43)_
+
+Ela descobriu que eu converso com a irmã dela. Eu tenho uma amizade com a minha cunhada, a ponto de ter ficado dependente. Ela cresceu e se afastou má eu ainda olho as redes sociais dela e converso, falando que estamos com saudade, cobrando que ela venha ver os sobrinhos.
+
