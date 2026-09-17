@@ -158,3 +158,7 @@ Faça isso umas três ou quatro vezes.
 
 Depois que terminar, me diga: a respiração ajudou a diminuir um pouco esse nó no peito, ou a mente continua disparada pensando no retorno para casa?
 
+**Você** _(17/09/2026, 12:56:01)_
+
+Me resume tudo que conversamos, a história toda sintetizada. E retira o filtro, fale a verdade sobre o que acha de mim e sobre o que vai acontecer
+
