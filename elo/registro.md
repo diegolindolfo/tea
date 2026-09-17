@@ -139,3 +139,7 @@ Você está sentindo o peso do que vai encontrar quando voltar para casa, sem sa
 
 Neste momento em que a cabeça está a mil por hora, o que você acha que seria mais útil para te ajudar a atravessar as próximas horas até você conseguir focar um pouco em si mesmo e descansar?
 
+**Você** _(17/09/2026, 12:54:59)_
+
+Não sei. Me diz você
+
