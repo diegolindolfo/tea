@@ -113,3 +113,19 @@ Como você está conseguindo lidar com esse momento aí agora? Qual é o seu imp
 
 Falando com você. Ela me disse pra eu falar com meu irmão. Que ela precisava falar com alguém e eu procurasse alguém de confiança. Meu irmão não entende. Estou aqui. Mas não sei o que vou encontrar em casa
 
+**Elo** _(17/09/2026, 12:50:01)_
+
+[NEUTRO] Desculpe, não consegui responder no momento: Failed to fetch
+
+**Você** _(17/09/2026, 12:50:53)_
+
+Tenta agora
+
+**Elo** _(17/09/2026, 12:51:10)_
+
+[NEUTRO] Desculpe, não consegui responder no momento: Failed to fetch
+
+**Você** _(17/09/2026, 12:53:01)_
+
+Novamente
+
