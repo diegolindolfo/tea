@@ -95,3 +95,7 @@ Essa oscilação dela — ora querendo afastar pelo choque e pela mágoa, ora bu
 
 Quando vocês conversam sobre isso, sobra espaço para ela expressar a parte dela sem que você precise se defender o tempo todo? Como tem sido tentar falar com ela sobre o que aconteceu em meio a essa gangorra de sentimentos?
 
+**Você** _(17/09/2026, 12:44:31)_
+
+Eu me defendo, mas depois dela falar. Eu tenho muito medo de perder minha família. Hoje ela resolveu que precisava contar a alguém. Está contando a irmã. Eu estou viajando a trabalho. Estou desesperado com a iminência de perder minha família
+
