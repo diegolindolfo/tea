@@ -99,3 +99,13 @@ Quando vocês conversam sobre isso, sobra espaço para ela expressar a parte del
 
 Eu me defendo, mas depois dela falar. Eu tenho muito medo de perder minha família. Hoje ela resolveu que precisava contar a alguém. Está contando a irmã. Eu estou viajando a trabalho. Estou desesperado com a iminência de perder minha família
 
+**Elo** _(17/09/2026, 12:44:40 · [HYPOTHESIS])_
+
+[HIPOTESE] Estar longe de casa, sozinho em uma viagem de trabalho, enquanto uma conversa dessas acontece, multiplica a sensação de desespero e impotência. É como ver algo desmoronar sem poder estender a mão para segurar. É compreensível que você esteja sentindo esse aperto no peito e o medo terrível de perder a sua família.
+
+Neste momento, há uma realidade dura, mas importante de encarar: você não tem controle sobre o que as duas vão conversar ou como a sua esposa vai processar isso hoje. Quando o medo da perda é gigante e estamos distantes fisicamente, o impulso mais comum é o desespero — tentar ligar sem parar, mandar mensagens longas, tentar se explicar ou conter o que está acontecendo. Mas, na maioria das vezes, agir a partir desse desespero só aumenta a tensão e a sensação de invasão do outro lado.
+
+Agora, o mais urgente é você conseguir respirar e cuidar de si mesmo aí onde você está, para não tomar atitudes impulsivas movidas pelo pânico.
+
+Como você está conseguindo lidar com esse momento aí agora? Qual é o seu impulso imediato nesse instante em relação à sua esposa?
+
