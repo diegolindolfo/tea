@@ -45,3 +45,7 @@ Tenso
 
 Ela descobriu que eu converso com a irmã dela. Eu tenho uma amizade com a minha cunhada, a ponto de ter ficado dependente. Ela cresceu e se afastou má eu ainda olho as redes sociais dela e converso, falando que estamos com saudade, cobrando que ela venha ver os sobrinhos.
 
+**Elo** _(17/09/2026, 12:33:15)_
+
+[NEUTRO] Desculpe, não consegui responder no momento: This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.
+
