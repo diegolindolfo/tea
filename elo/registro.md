@@ -61,3 +61,11 @@ Oi
 
 Oi
 
+**Elo** _(17/09/2026, 12:36:22 · [FACT])_
+
+[FATO] Entendo o quanto esse momento deve estar pesado e tenso para você, Diego. Ver o casamento ameaçado mexe com tudo, especialmente em uma situação delicada como essa, envolvendo a irmã da sua esposa.
+
+Pelo que você contou, existia uma ligação próxima com a sua cunhada que acabou se tornando uma dependência emocional para você. Mesmo com o distanciamento natural dela ao longo do tempo, você continuou buscando contato pelas redes e insistindo na presença dela, usando a saudade da família e dos sobrinhos como ponte — e a descoberta dessas conversas foi o estopim para a sua esposa pedir a separação.
+
+Para que eu possa entender melhor o cenário: como foi essa conversa quando a sua esposa descobriu? E, olhando com sinceridade para o que você sentia e cobrava da sua cunhada, o que você acha que buscava manter ali?
+
