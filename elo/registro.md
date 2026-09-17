@@ -87,3 +87,11 @@ Você reconhece com clareza que passou do ponto ao insistir. Hoje, como você en
 
 Magoa maior. Ela acha que eu sou um monstro que tinha interesse na irmã dela. Não é verdade. Ela disse que queria terminar, tirou a aliança. Fui dormir no quarto do meu filho. Mas ela me chamou, não queria dormir sozinha. Ela dormiu no meu peito. No outro dia, continuou não querendo falar ou chegar perto de mim, com a ideia da separação.
 
+**Elo** _(17/09/2026, 12:42:57 · [FACT])_
+
+[FATO] É perfeitamente compreensível que você se sinta acuado e injustiçado ao ser visto como um "monstro" quando a sua intenção real era buscar alívio para uma solidão profunda, e não um interesse romântico. Ao mesmo tempo, a reação da sua esposa demonstra um nó emocional muito confuso e doloroso para os dois lados: a dor da traição da confiança e o medo, misturados com a dificuldade genuína dela de ficar sem você — como ficou claro quando ela te chamou para dormir no peito dela, mas voltou a se fechar no dia seguinte.
+
+Essa oscilação dela — ora querendo afastar pelo choque e pela mágoa, ora buscando conforto na sua proximidade — mostra que ela está dividida entre o impulso de se proteger de algo que a feriu profundamente e o apego à relação de vocês. 
+
+Quando vocês conversam sobre isso, sobra espaço para ela expressar a parte dela sem que você precise se defender o tempo todo? Como tem sido tentar falar com ela sobre o que aconteceu em meio a essa gangorra de sentimentos?
+
