@@ -73,3 +73,13 @@ Para que eu possa entender melhor o cenário: como foi essa conversa quando a su
 
 Eu buscava manter um contato, minha esposa é muito distante. Quando eu dizia que estava carente, que queria conversar, passar mais tempo junto, ela dizia que no momento não podia oferecer o que eu queria. Minha cunhada era adolescente, gostava de videogame, filmes, meu filho é autista, não mantém uma relação de amizade comigo. Ela ocupou dois espaços. Minha esposa não entende que eu não era apaixonado pela minha cunhada, nunca foi nem uma ideia que passou pela minha cabeça. Passei do ponto, com certeza, ao insistir em uma amizade, mas nada além disso
 
+**Elo** _(17/09/2026, 12:39:51 · [HYPOTHESIS])_
+
+[HIPOTESE] Dá para perceber o tamanho do vazio e da solidão que você vinha sentindo, Diego. Cuidar de um filho no espectro autista exige muito e traz desafios próprios na conexão, e viver um casamento com distanciamento emocional deixa a pessoa desamparada. Você encontrou nessa convivência com a sua cunhada um espaço de leveza, de interesses em comum e de presença que estava fazendo muita falta na sua vida.
+
+Ao mesmo tempo, olhando de fora, pode ser que a dor da sua esposa não seja apenas sobre existir ou não uma atração física ou romântica. 
+
+Na perspectiva dela, o marido foi buscar uma intimidade emocional, uma cumplicidade e até uma dependência justamente com a irmã mais nova dela — alguém da família e que na época era uma adolescente —, enquanto a relação de vocês dois estava distante. Mesmo que a sua intenção fosse pura e você não tivesse nenhum interesse romântico, o impacto do que aconteceu abala profundamente os limites de lealdade e confiança da relação.
+
+Você reconhece com clareza que passou do ponto ao insistir. Hoje, como você enxerga a reação da sua esposa: você acha que ela está reagindo apenas à ideia de uma traição tradicional, ou há uma mágoa maior sobre o segredo e o lugar que a irmã dela passou a ocupar?
+
