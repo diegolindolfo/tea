@@ -109,3 +109,7 @@ Agora, o mais urgente é você conseguir respirar e cuidar de si mesmo aí onde 
 
 Como você está conseguindo lidar com esse momento aí agora? Qual é o seu impulso imediato nesse instante em relação à sua esposa?
 
+**Você** _(17/09/2026, 12:47:02)_
+
+Falando com você. Ela me disse pra eu falar com meu irmão. Que ela precisava falar com alguém e eu procurasse alguém de confiança. Meu irmão não entende. Estou aqui. Mas não sei o que vou encontrar em casa
+
