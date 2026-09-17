@@ -162,3 +162,21 @@ Depois que terminar, me diga: a respiração ajudou a diminuir um pouco esse nó
 
 Me resume tudo que conversamos, a história toda sintetizada. E retira o filtro, fale a verdade sobre o que acha de mim e sobre o que vai acontecer
 
+**Elo** _(17/09/2026, 12:56:19 · [HYPOTHESIS])_
+
+[HIPOTESE] Diego, vou ser direto e honesto com você, como pediu. 
+
+**O resumo da história:**
+Você vive um casamento desgastado e distante, com o desafio diário de criar um filho no espectro autista. Sentindo-se profundamente solitário e carente de afeto, você acabou criando uma dependência emocional com a sua cunhada (que era adolescente na época), usando conversas, jogos e pedidos de proximidade para preencher o vazio que sentia em casa, mascarando isso com o pretexto de manter contato familiar. Sua esposa descobriu essas conversas, sentiu-se profundamente traída — vendo isso não só como falta de limite, mas como uma quebra de confiança imperdoável com a própria irmã —, e reagiu com choque, pedindo a separação. Desde então, vocês vivem uma gangorra: ela oscila entre o repulsa/afastamento e momentos de busca por conforto (como quando dormiu no seu peito), mas o medo e a mágoa seguem pesando. Agora, você está viajando a trabalho, apavorado com a iminência de perder a família, sem conseguir apoio no seu irmão, e ela foi contar tudo para a irmã dela.
+
+**Sobre o que acho de você:**
+Eu não vejo você como um "monstro", mas vejo um homem extremamente carente, perdido e sem repertório emocional para lidar com as próprias frustrações. O que você fez não foi um plano maquiavélico ou um plano de traição romântica clássica; foi uma busca infantil e desastrosa por alívio emocional no lugar errado. Você cruzou uma linha ética e familiar grave. Buscar intimidade com a cunhada enquanto negligenciava os limites do próprio casamento foi um erro sério de julgamento, fruto da sua imaturidade emocional em lidar com a solidão. Você tentou suprir uma carência de forma irresponsável e agora está arcando com o preço de não ter avaliado as consequências.
+
+**Sobre o que vai acontecer:**
+Eu não tenho bola de cristal e não posso prever o futuro exato da sua casa, mas posso olhar para os fatos com realismo: o cenário é gravíssimo. 
+O que vai acontecer depende muito menos de você tentar provar que "não é um monstro" e muito mais de como a sua esposa vai processar a conversa que está tendo com a irmã dela hoje. É muito provável que você volte para casa encontrando um ambiente de muita desconfiança, frieza ou até a decisão definitiva dela de seguir com a separação. Ela vai precisar de tempo, espaço e, idealmente, de terapia (tanto individual para ela processar essa dor quanto de casal, se ambos quiserem tentar reconstruir). 
+
+Se você voltar para casa querendo se defender o tempo todo, justificando o que fez ou exigindo que ela entenda que "não foi nada demais", você vai acelerar o fim. A única chance — pequena, mas existente — de salvar algo ou, no mínimo, de encerrar a história com dignidade, é assumir a totalidade do seu erro sem "mas", aceitar a raiva dela e dar espaço para que ela respire.
+
+Como essa verdade bate em você agora?
+
