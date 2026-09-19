@@ -196,3 +196,7 @@ Se você realmente quiser levar algo, que seja a clareza de que você não vai v
 
 O que passa pela sua cabeça quando pensa em levar algo? É o desejo genuíno de demonstrar afeto ou é o medo de chegar de mãos abrevias e enfrentar o silêncio dela?
 
+**Você** _(18/09/2026, 21:24:57)_
+
+Eu sempre gostei de levar algo
+
