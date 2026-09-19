@@ -180,3 +180,7 @@ Se você voltar para casa querendo se defender o tempo todo, justificando o que 
 
 Como essa verdade bate em você agora?
 
+**Você** _(18/09/2026, 21:02:31)_
+
+Dura. Eu estou viajando, queria levar algo pra ela
+
