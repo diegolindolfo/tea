@@ -200,3 +200,15 @@ O que passa pela sua cabeça quando pensa em levar algo? É o desejo genuíno de
 
 Eu sempre gostei de levar algo
 
+**Elo** _(18/09/2026, 21:25:06 · [HYPOTHESIS])_
+
+[HIPOTESE] Entendo, Diego. Faz parte do seu ritual, do seu jeito costumeiro de demonstrar que pensou nela enquanto esteve longe. Em tempos de paz, é um gesto legítimo de afeto.
+
+O ponto delicado não é o ato de comprar algo em si, mas o contraste entre o que esse gesto significa para você e como ele pode soar para ela neste momento. 
+
+Para você, é a continuação de um hábito de carinho e uma tentativa de manter uma ponte. Para ela, que está vivendo o pico da decepção e da quebra de confiança, qualquer atitude que pareça uma tentativa de "voltar à rotina" pode soar como se a gravidade do que aconteceu estivesse sendo minimizada.
+
+Se você sentir que precisa manter esse gesto porque isso diz respeito ao seu respeito por ela, leve algo simples e discreto. Mas faça isso desarmado de qualquer expectativa: esteja pronto para ela não querer abrir, não agradecer ou até reagir com frieza. O gesto só não será invasivo se você entregá-lo sem cobrar nenhuma reação positiva em troca.
+
+Como você se sente diante da possibilidade de entregar algo e receber apenas silêncio ou indiferença?
+
